@@ -1,5 +1,4 @@
-# urban-theme
+Ting Tar Tid
+============
 
-This theme is a Jekyll port of http://erosie.net/ with some modifications. It is designed for visual artists.
-
-Live-Demo: http://narkotyk.net/
+En enkel blogg om hjemmebryggeriet mitt. Vil legge ut et innlegg per batch jeg brygger, og mine erfaringer fra det brygget.
