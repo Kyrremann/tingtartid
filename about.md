@@ -1,9 +1,11 @@
 ---
 layout: page
-title: about
-permalink: /about/
+title: Om bryggeriet
+permalink: /om-bryggeriet/
 ---
 
-Bavaria ipsum dolor sit amet hoid a bissal wos gehd ollaweil nomoi. Wolln mei Weißwiaschd sowos, koa Habedehre schaugn san. Foidweg sog i hoggd Kaiwe, wuid Marterl großherzig ned woar.
+Ting Tar Tid er et lite hjemmebryggeri som fokuserer på mørk, kraftig, og alternativ øl. Navnet er basert på en gruk av Piet Hein.
 
-Obandln singd Hendl spernzaln i hab an singan dringma aweng Hendl oamoi gwiss Fünferl. Xaver Auffisteign vasteh kumm geh i moan oiwei nia om auf’n Gipfe hoam obandeln.
+### Bryggeutstyr
+
+Har en Grainfather Connect med spiralkjøler og diverse gjæringskar. Veldig fornøyd med selve maskinen, enkel å bruke. Eneste ulempen er maks mengden på malt, som gjør at man må bruke flerstegmesking.
