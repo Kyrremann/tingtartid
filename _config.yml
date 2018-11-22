@@ -6,8 +6,7 @@ description: > # this means to ignore newlines until "baseurl:"
   Navnet er basert på en gruk av Piet Hein.
 baseurl: "/tingtartid" # the subpath of your site, e.g. /blog
 url: "https://kyrremann.github.io" # the base hostname & protocol for your site
-twitter_username:
-github_username:
+untappd_brewery_id: "413148"
 
 # Build settings
 markdown: kramdown
