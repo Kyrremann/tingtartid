@@ -2,7 +2,7 @@
 layout: post
 title:  "Batch #1: Knuser'n"
 date:   2018-10-20 12:00:00
-preview: /tingtartid/assets/knusern300.png
+preview: /assets/knusern300.png
 ---
 
 ![Bilde fra Byggselv.no](/assets/knusern.png)
