@@ -1,11 +1,9 @@
-# Site settings
 title: Ting Tar tid
 email: kyrremann@gmail.com
-description: > # this means to ignore newlines until "baseurl:"
+description: >
   Ting Tar Tid er et lite hjemmebryggeri som fokuserer på mørk, kraftig, og alternativ øl.
   Navnet er basert på en gruk av Piet Hein.
-baseurl: "/tingtartid" # the subpath of your site, e.g. /blog
-url: "https://kyrremann.github.io" # the base hostname & protocol for your site
+url: "https://tingtartid.beer"
 untappd_brewery_id: "413148"
 
 # Build settings
