@@ -5,7 +5,7 @@ date:   2018-10-20 12:00:00
 preview: /tingtartid/assets/knusern300.png
 ---
 
-![Bilde fra Byggselv.no](/tingtartid/assets/knusern.png)
+![Bilde fra Byggselv.no](/assets/knusern.png)
 
 Først øl brygget ble en imperial stout kjøpt på Brygg Selv kalt Knuser'n. Er et sammarbeidsbrygg med pappa (aka. Fiskeslo).
 
