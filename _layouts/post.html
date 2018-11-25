@@ -16,7 +16,9 @@ layout: default
   </header>
 
   <article class="post-content">
+    {% if page.main_photo %}
+      {% include unsplash.html %}
+    {% endif %}
     {{ content }}
   </article>
-
 </div>
