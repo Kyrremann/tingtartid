@@ -21,6 +21,6 @@ Vi hadde utfordringer med megnde malt, da det var nesten dobbelt så mye malt so
 | ABV        | 7,88%         |
 | Flasket    | 03.11.2018    |
 | Flasker    | 35 stk a 0,5l |
-| Ferdig     | 02.12.2018    |
+| Ferdig     | 17.12.2018    |
 
 Oppskrift finner du på [bryggselv.no](https://www.bryggselv.no/finest/105063/knuser-n-imperial-stout-allgrain-%C3%B8lsett-20-liter).
