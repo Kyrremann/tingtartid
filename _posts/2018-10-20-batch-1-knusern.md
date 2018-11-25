@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Batch #1: Knuser'n"
-date:   2018-10-20 12:00:00
+date:   2018-10-20 10:00:00
 preview: /assets/knusern300.png
 ---
 
@@ -11,12 +11,16 @@ Først øl brygget ble en imperial stout kjøpt på Brygg Selv kalt Knuser'n. Er
 
 Vi hadde utfordringer med megnde malt, da det var nesten dobbelt så mye malt som kapasiteten til bryggemaskinen. Derfor endte vi opp med dobbelmesking som gikk relativt greit. Tidkrevende, men ellers ingen problemer.
 
-| OG      | N/A        |
-| FG      | N/A        |
-| ABV     | N/A        |
-| Liter   | N/A        |
-| Brygget | 20.10.2018 |
-| Flasket | 03.11.2018 |
-| Ferdig  | 02.12.2018 |
+| Brygget    | 20.10.2018    |
+| Meskevann  | 25l           |
+| Skyllevann | 12l           |
+| Før kok    | 28l           |
+| Etter kok  | 19l           |
+| OG         | 1.090         |
+| FG         | 1.030         |
+| ABV        | 7,88%         |
+| Flasket    | 03.11.2018    |
+| Flasker    | 35 stk a 0,5l |
+| Ferdig     | 02.12.2018    |
 
 Oppskrift finner du på [bryggselv.no](https://www.bryggselv.no/finest/105063/knuser-n-imperial-stout-allgrain-%C3%B8lsett-20-liter).
