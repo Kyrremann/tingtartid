@@ -1,7 +1,6 @@
 ---
 layout: page
 title: Om bryggeriet
-permalink: /om-bryggeriet/
 ---
 
 Ting Tar Tid er et lite hjemmebryggeri som fokuserer på mørk, kraftig, og alternativ øl. Navnet er basert på en gruk av Piet Hein.
