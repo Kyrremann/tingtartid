@@ -28,3 +28,8 @@ Kokingen gikk egentlig greit, og med bare en type humle, så ble alt tilsatt nå
 | Ferdig     | xx.12.2018 |
 
 Oppskrift finner du på [bryggselv.no](https://www.bryggselv.no/finest/102358/lervig-lucky-jack-allgrain-%C3%B8lsett-25-liter).
+
+
+#### bryggenotater
+
+Litt lite øl til gjæring, så en femtedel av opprinnelig oppskrift blir litt lite. Jeg er heller ikke så god på å treffe effektiviteten.

@@ -40,6 +40,11 @@ Kan også nevne at dette var første øl jeg bruke sukkerlake på. Hadde glemt �
 Oppskrift finner du på [bryggselv.no](https://www.bryggselv.no/finest/105063/knuser-n-imperial-stout-allgrain-%C3%B8lsett-20-liter).
 
 
+#### bryggenotater
+
+Neste gang jeg skal bruke så mye malt, så vil jeg nok heller trippelmeske. Vil også se på muligheter for å få den enda mørkere, og kanskje blande inn noe krydder. Sannsynligvis ved å dele opp batchen etter stormgjæringen.
+
+
 #### om kaffen
 
 | Sted        | Brasil, Augusto Ferreira, Sul de Minas                                              |

@@ -14,6 +14,8 @@ Alt gikk heller ikke helt etter planen denne gangen, for vi glemte å bruke pump
 
 Vi har også fått testet mitt nye refactormeter, hvor vi kan lese vørten sin oechsle-skala. For sikkerhetsskyld sammenlignet vi med vanlig tradisjonell hydrometer. Fikk ca den samme målingen, nemling 32 på oechsle-skalaen, og 1,031 med hydrometeret. Dette var en måling gjort før kokingen. Etter kokingen tok vi en ny måling, og traff på OG'en som var nevnt i oppskriften. Målte først med refactormeteret, fikk 1.049, kontrollmålte med hydrometeret, og fikk nesten det samme, 1.050. Så føler meg trygg på at jeg har skjønt hvordan refactormeteret skal brukes.
 
+Som forrige batch, ble denne også delt i to. Jeg helte av 4l i et eget kar, som jeg tenker å tilføre 500cl eplegløgg fra Ringi etter at stormgjæringen er ferdig.
+
 
 | Brygget    | 24.11.2018 |
 | Meskevann  | 20l        |
@@ -28,3 +30,8 @@ Vi har også fått testet mitt nye refactormeter, hvor vi kan lese vørten sin o
 | Ferdig     | xx.12.2018 |
 
 Oppskriften er fra Bryggselv.no, men ligger ikke ute på nettet.
+
+
+#### bryggenotater
+
+Neste gang må vi huske å bruke pumpen under meskingen. Rehydrering av gjæren vet jeg ikke hvor viktig er, men sikkert fint å gjøre alt. Oppdeling av batchen kommer nok til å bli gjort etter stormgjæringen, dette for å sikre likest mulig gjæring av vørteren.
