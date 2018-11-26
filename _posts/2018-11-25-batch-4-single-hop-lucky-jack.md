@@ -15,7 +15,7 @@ Dette er også første gangen jeg brygger med kjele helt alene, og merket fort u
 Kokingen gikk egentlig greit, og med bare en type humle, så ble alt tilsatt når det var 60 minutter igjen av koken. Kjøling er jo alltid litt utfordrende når man skal gjøre det i vasken, men jeg hadde hatt en 10l bøtte med vann stående ute i nestne 0 grader i en del timer, og det hjalp til å kjøle kjapt ned.
 
 
-| Brygget    | 25.12.2018 |
+| Brygget    | 25.11.2018 |
 | Meskevann  | 3l         |
 | Skyllevann | 4l         |
 | Før kok    | N/A        |

@@ -15,7 +15,7 @@ Alt gikk heller ikke helt etter planen denne gangen, for vi glemte å bruke pump
 Vi har også fått testet mitt nye refactormeter, hvor vi kan lese vørten sin oechsle-skala. For sikkerhetsskyld sammenlignet vi med vanlig tradisjonell hydrometer. Fikk ca den samme målingen, nemling 32 på oechsle-skalaen, og 1,031 med hydrometeret. Dette var en måling gjort før kokingen. Etter kokingen tok vi en ny måling, og traff på OG'en som var nevnt i oppskriften. Målte først med refactormeteret, fikk 1.049, kontrollmålte med hydrometeret, og fikk nesten det samme, 1.050. Så føler meg trygg på at jeg har skjønt hvordan refactormeteret skal brukes.
 
 
-| Brygget    | 24.12.2018 |
+| Brygget    | 24.11.2018 |
 | Meskevann  | 20l        |
 | Skyllevann | 10l        |
 | Før kok    | 25l        |
