@@ -11,6 +11,7 @@ Først øl brygget ble en imperial stout kjøpt på Brygg Selv kalt Knuser'n. Er
 
 Vi hadde utfordringer med megnde malt, da det var nesten dobbelt så mye malt som kapasiteten til bryggemaskinen. Derfor endte vi opp med dobbelmesking som gikk relativt greit. Tidkrevende, men ellers ingen problemer.
 
+
 | Brygget    | 20.10.2018    |
 | Meskevann  | 25l           |
 | Skyllevann | 12l           |
