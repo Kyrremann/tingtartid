@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: batch
 title:  "Batch #1: Knuser'n"
 date:   2018-10-20 10:00:00
 preview: /assets/knusern300.png

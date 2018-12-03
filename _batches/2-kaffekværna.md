@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: batch
 title:  "Batch #2: Kaffekværna"
 date:   2018-11-03 10:00:00
 preview: /assets/tina-guina-639046-unsplash-300.png

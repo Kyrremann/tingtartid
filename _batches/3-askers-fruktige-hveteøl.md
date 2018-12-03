@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: batch
 title:  "Batch #3: Askers fruktige hveteøl"
 date:   2018-11-24 10:00:00
 preview: /assets/stefania-crudeli-743745-unsplash-300.png
