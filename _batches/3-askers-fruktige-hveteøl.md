@@ -25,9 +25,9 @@ Som forrige batch, ble denne også delt i to. Jeg helte av 4l i et eget kar, som
 | OG         | 1.049      |
 | FG         | N/A        |
 | ABV        | N/A        |
-| Flasket    | xx.12.2018 |
+| Flasket    | 09.12.2018 |
 | Flasker    | N/A        |
-| Ferdig     | xx.12.2018 |
+| Ferdig     | 13.01.2019 |
 
 Oppskriften er fra Bryggselv.no, men ligger ikke ute på nettet.
 

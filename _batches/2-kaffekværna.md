@@ -35,7 +35,7 @@ Kan også nevne at dette var første øl jeg bruke sukkerlake på. Hadde glemt �
 | - 100g     | 7 stk, 3,5l |
 | - 150g     | 9 stk, 3l   |
 | - 250g     | 8 stk, 3l   |
-| Ferdig     | 03.01.2019  |
+| Ferdig     | 04.01.2019  |
 
 Oppskrift finner du på [bryggselv.no](https://www.bryggselv.no/finest/105063/knuser-n-imperial-stout-allgrain-%C3%B8lsett-20-liter).
 

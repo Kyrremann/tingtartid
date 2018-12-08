@@ -23,9 +23,9 @@ Kokingen gikk egentlig greit, og med bare en type humle, så ble alt tilsatt nå
 | OG         | 1.052      |
 | FG         | N/A        |
 | ABV        | N/A        |
-| Flasket    | xx.12.2018 |
+| Flasket    | 09.12.2018 |
 | Flasker    |            |
-| Ferdig     | xx.12.2018 |
+| Ferdig     | 13.01.2019 |
 
 Oppskrift finner du på [bryggselv.no](https://www.bryggselv.no/finest/102358/lervig-lucky-jack-allgrain-%C3%B8lsett-25-liter).
 
