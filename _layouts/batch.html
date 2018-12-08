@@ -2,15 +2,6 @@
 layout: default
 ---
 <div class="batch">
-  <div class="batch-nav">
-    {% if page.next.url %}
-      <a class="nav-item" href="{{ page.next.url | prepend: site.baseurl }}">&laquo; neste</a>
-    {% endif %}
-    {% if page.previous.url %}
-      <a class="nav-item" href="{{ page.previous.url | prepend: site.baseurl }}">forrige &raquo;</a>
-    {% endif %}
-  </div>
-
   <header class="batch-header">
     <h1 class="batch-title">{{ page.title }}</h1>
   </header>
@@ -21,4 +12,13 @@ layout: default
     {% endif %}
     {{ content }}
   </article>
+
+  <div class="batch-nav">
+    {% if page.next.url %}
+      <a class="nav-item" href="{{ page.next.url | prepend: site.baseurl }}">&laquo; neste</a>
+    {% endif %}
+    {% if page.previous.url %}
+      <a class="nav-item" href="{{ page.previous.url | prepend: site.baseurl }}">forrige &raquo;</a>
+    {% endif %}
+  </div>
 </div>
