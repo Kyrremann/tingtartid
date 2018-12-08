@@ -2,7 +2,6 @@
  * Icons
  */
 .icon {
-
     > svg {
         display: inline-block;
         width: 64px;
@@ -12,5 +11,9 @@
         path {
             fill: $color-secondary;
         }
+
+	svg:hover path {
+	    fill: $text-link-hover;
+	}
     }
 }

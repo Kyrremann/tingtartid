@@ -1,7 +1,7 @@
 /**
  * Site header
  */
- .wrapper .container {
+.wrapper .container {
     max-width: 80rem;
 }
 
@@ -19,6 +19,9 @@
     padding: 1rem;
 }
 
+/**
+ * Batch
+ */
 .batch-nav, .post-nav {
     text-align: center;
     padding: 1rem;
@@ -26,6 +29,65 @@
 
 .batch-title, .page-title, .post-title {
     display: block;
+    text-transform: lowercase;
+}
+
+.batch-panel {
+    padding: 1rem;
+    box-sizing: border-box;
+    border: 1px solid $color-initial;
+
+    &:hover {
+        border: 1px solid $grey-color-light;
+    }
+
+    .batch-title {
+	line-height: 1;
+    }
+}
+
+/**
+ * Common
+ */
+.post-list, .navbar, .batch-panel {
+    a {
+	color: $color-secondary;
+	display: block;
+    }
+
+    a:hover, li:hover .dates {
+	text-decoration: none;
+	color: $text-link-hover;
+    }
+}
+
+/**
+ * Post
+ */
+.post-list {
+    list-style: none;
+}
+
+.post-list .dates {
+    float: right;
+    color: $text-meta;
+}
+
+.post-list li {
+    list-style-type: none;
+}
+
+.post-list li+li {
+    padding-top: 2rem;
+    border-top: 1px solid $grey-color-light;
+}
+
+.post-list h4 {
+    margin-bottom: 0rem;
+}
+
+.post-list .post-description {
+    color: $text-meta;
 }
 
 /**
@@ -47,21 +109,6 @@
     padding: 2rem 0;
 }
 
-.contact-list,
 .social-media-list {
     list-style: none;
-    margin-left: 0;
-}
-
-/**
- * Misc
- */
-.preview-panel {
-    padding: 1rem;
-    box-sizing: border-box;
-    border: 1px solid $color-initial;
-    
-    &:hover {
-        border: 1px solid $grey-color-light;
-    }
 }
