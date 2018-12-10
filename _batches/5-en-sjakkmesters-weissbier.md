@@ -24,11 +24,12 @@ Ellers vil jeg bare nevne at jeg gikk for en tre-deling av oppskriften, og ikke 
 | OG         | 1.050      |
 | FG         | N/A        |
 | ABV        | N/A        |
-| Flasket    | 26.12.2018 |
+| Flasket    | 12.12.2018 |
 | Flasker    |            |
 | Ferdig     | 16.01.2019 |
 
 Oppskrift finner du på [bryggselv.no](https://www.bryggselv.no/finest/103008/weissbier-allgrain-%C3%B8lsett-25-liter).
+
 
 #### bryggenotater
 

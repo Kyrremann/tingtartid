@@ -15,17 +15,17 @@ Dette er også første gangen jeg brygger med kjele helt alene, og merket fort u
 Kokingen gikk egentlig greit, og med bare en type humle, så ble alt tilsatt når det var 60 minutter igjen av koken. Kjøling er jo alltid litt utfordrende når man skal gjøre det i vasken, men jeg hadde hatt en 10l bøtte med vann stående ute i nestne 0 grader i en del timer, og det hjalp til å kjøle kjapt ned.
 
 
-| Brygget    | 25.11.2018 |
-| Meskevann  | 3l         |
-| Skyllevann | 4l         |
-| Før kok    | N/A        |
-| Etter kok  | 3,5l       |
-| OG         | 1.052      |
-| FG         | N/A        |
-| ABV        | N/A        |
-| Flasket    | 09.12.2018 |
-| Flasker    |            |
-| Ferdig     | 13.01.2019 |
+| Brygget    | 25.11.2018    |
+| Meskevann  | 3l            |
+| Skyllevann | 4l            |
+| Før kok    | N/A           |
+| Etter kok  | 3,5l          |
+| OG         | 1.052         |
+| FG         | 1.015         |
+| ABV        | 4.98%         |
+| Flasket    | 09.12.2018    |
+| Flasker    | 9 stk a 0,33l |
+| Ferdig     | 13.01.2019    |
 
 Oppskrift finner du på [bryggselv.no](https://www.bryggselv.no/finest/102358/lervig-lucky-jack-allgrain-%C3%B8lsett-25-liter).
 

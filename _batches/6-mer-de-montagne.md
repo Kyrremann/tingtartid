@@ -23,9 +23,9 @@ Den store utfordringen med å brygge saison er jo at den skal gjære på ganske 
 | OG         | 1.056      |
 | FG         | N/A        |
 | ABV        | N/A        |
-| Flasket    | 29.12.2018 |
+| Flasket    | 22.12.2018 |
 | Flasker    |            |
-| Ferdig     | 09.02.2018 |
+| Ferdig     | 02.02.2018 |
 
 Oppskrift finner du på [bryggselv.no](https://www.bryggselv.no/finest/104872/saison-rustique-allgrain-%C3%B8lsett-25-liter).
 
@@ -33,3 +33,8 @@ Oppskrift finner du på [bryggselv.no](https://www.bryggselv.no/finest/104872/sa
 #### bryggenotater
 
 Selve bryggeprosessen gikk som den pleier, ingen nemneverdige hendelser, bortsett fra at jeg fikk prøvd den nye spiralkjøleren min! Og gjett om det hjalp! Brukte ca 15 minutter på å kjøle ned værteren fra 100°C til 24°C. Så superfornøyd med det kjøpet. Foreløpig må jeg koble den til dusjen, så litt tungvindt å bære vørteren til badet, men heldigvis brygger jeg under 10l, så ingen fare for ryggen.
+
+
+#### gjæringsnotater
+
+Gikk ikke helt som forventet med denne gjøringen, klarte å varme den opp for mye, så ble stressgjøring. Kommer derfor bare til å la den gjære i to uker før jeg flasker den. Mer om hva som skjedde kan leses i [uhell under gjæring](/2018/12/10/uhell-under-gjæring).
