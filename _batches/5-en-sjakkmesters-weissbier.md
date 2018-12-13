@@ -22,10 +22,11 @@ Ellers vil jeg bare nevne at jeg gikk for en tre-deling av oppskriften, og ikke 
 | Før kok    | N/A        |
 | Etter kok  | 7l         |
 | OG         | 1.050      |
-| FG         | N/A        |
-| ABV        | N/A        |
-| Flasket    | 12.12.2018 |
-| Flasker    |            |
+| FG         | 1.008      |
+| ABV        | 5.6%       |
+| Flasket    | 13.12.2018 |
+| Flasker    | 19 stk, 6l |
+| - 0,33l    | 19 stk     |
 | Ferdig     | 16.01.2019 |
 
 Oppskrift finner du på [bryggselv.no](https://www.bryggselv.no/finest/103008/weissbier-allgrain-%C3%B8lsett-25-liter).
