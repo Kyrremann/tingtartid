@@ -1,7 +1,7 @@
 ---
 layout: batch
 title:  "Batch #6: Mer de Montagne"
-date:   2018-11-28 10:00:00
+date:   2018-12-08 10:00:00
 preview: /assets/kyrre-havik-eriksen-bergsjø-unsplash-300.png
 main_photo: /assets/kyrre-havik-eriksen-bergsjø-unsplash.png
 main_photographer: Kyrre Havik Eriksen
@@ -19,7 +19,7 @@ Den store utfordringen med å brygge saison er jo at den skal gjære på ganske 
 | Meskevann  | 6,5l       |
 | Skyllevann | 5l         |
 | Før kok    | N/A        |
-| Etter kok  | xxl        |
+| Etter kok  | 7l         |
 | OG         | 1.056      |
 | FG         | N/A        |
 | ABV        | N/A        |
