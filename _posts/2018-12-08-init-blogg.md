@@ -4,6 +4,7 @@ title:  "Init blogg"
 date:   2018-12-08 12:00:00
 description: "Da har vi en liten blogg også!"
 ---
+
 Skjedd litt i det lille hjemmebryggeriet Ting Tar Tid:
 * fått lagt til blogg
 * opprettet Twitter-konto (er visst folk som ikke bruker RSS lengre)

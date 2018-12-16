@@ -26,3 +26,8 @@ Bryggingen gikk som forventet, men jeg må bli flinkere på lufting av vørteren
 | Ferdig     | 15.02.2019 |
 
 Oppskrift finner du på [bryggselv.no](https://www.bryggselv.no/finest/104872/saison-rustique-allgrain-%C3%B8lsett-25-liter).
+
+
+#### bryggenotater
+
+Ble brukt en annen gjær enn nevnt i oppskriften, nemlig M29 French Saison gjær fra Mangrove Jack's.

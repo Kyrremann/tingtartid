@@ -16,6 +16,7 @@ Eksperimenterte litt med gjæringen også denne gangen. Hadde den to dager i kje
 
 Ellers vil jeg bare nevne at jeg gikk for en tre-deling av oppskriften, og ikke en fire-deling. Noe jeg syns fungerte bra.
 
+
 | Brygget    | 28.11.2018 |
 | Meskevann  | 6l         |
 | Skyllevann | 6l         |
@@ -34,4 +35,4 @@ Oppskrift finner du på [bryggselv.no](https://www.bryggselv.no/finest/103008/we
 
 #### bryggenotater
 
-Ingen utfordringer denne gangen, så veldig fornøyd.
+Ble brukt en annen gjær enn nevnt i oppskriften, nemlig M31 Belgian Tripel gjær fra Mangrove Jack's.

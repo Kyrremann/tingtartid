@@ -44,4 +44,4 @@ Neste gang må vi huske å bruke pumpen under meskingen. Rehydrering av gjæren 
 
 #### eplegløgg i øl
 
-Jeg er stor fan av å prøve å eksperimentere, og når vi lager så mye som 20l øl, så er det lett å sette av 4l i et eget kar. Denne gangen så ble det forsøkt med Jackobs Eplegløgg, og vi brukte hele 500ml eplegløgg! Da prøvesmakte på den når vi flasket ølen hadde den en overbærende lukt og smak av eplegløgg, nesten slik at det ble for mye. Så det blir spennende å se når dette får karbonert seg, og så lagret.
+Jeg er stor fan å eksperimentere, og når vi lager så mye som 20l øl, så er det lett å sette av 4l i et eget kar. Denne gangen så ble det forsøkt med Jackobs Eplegløgg, og vi brukte hele 500ml eplegløgg! Da prøvesmakte på den når vi flasket ølen hadde den en overbærende lukt og smak av eplegløgg, nesten slik at det ble for mye. Så det blir spennende å se når dette får karbonert seg, og så lagret.

@@ -34,6 +34,8 @@ Oppskrift finner du på [bryggselv.no](https://www.bryggselv.no/finest/104872/sa
 
 Selve bryggeprosessen gikk som den pleier, ingen nemneverdige hendelser, bortsett fra at jeg fikk prøvd den nye spiralkjøleren min! Og gjett om det hjalp! Brukte ca 15 minutter på å kjøle ned værteren fra 100°C til 24°C. Så superfornøyd med det kjøpet. Foreløpig må jeg koble den til dusjen, så litt tungvindt å bære vørteren til badet, men heldigvis brygger jeg under 10l, så ingen fare for ryggen.
 
+Ble brukt en annen gjær enn nevnt i oppskriften, nemlig M29 French Saison gjær fra Mangrove Jack's.
+
 
 #### gjæringsnotater
 
