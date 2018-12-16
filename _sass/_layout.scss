@@ -112,3 +112,64 @@
 .social-media-list {
     list-style: none;
 }
+
+/**
+ * Pagination
+ */
+#prev,
+#next {
+  position: fixed;
+  text-decoration: none;
+  background: $color-initial;
+  border: 1px solid $grey-color-light;
+  padding: .5em;
+  line-height: 1;
+  border-radius: 100px;
+  bottom: 2em;
+  color: #333;
+  @media (max-width: 942px) {
+    position: static;
+    padding: .8em 1em .7em;
+  }
+}
+
+#next {
+  left: 40px;
+  @media (max-width: 942px) {
+    float: left;
+  }
+}
+
+#prev {
+  right: 40px;
+  @media (max-width: 942px) {
+    float: right;
+  }
+}
+
+#prev:active,
+#next:active {
+  border-color: $color-primary;
+}
+
+.nav-title {
+  display: none;
+  @media (max-width: 942px) {
+    display: inline;
+  }
+}
+
+.nav-title-prev {
+  margin-left: .5em;
+  margin-right: .5em;
+}
+
+.nav-title-next {
+  margin-right: .5em;
+  margin-left: .5em;
+}
+
+#prev:hover .nav-title,
+#next:hover .nav-title {
+  display: inline;
+}

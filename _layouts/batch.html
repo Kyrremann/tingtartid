@@ -13,12 +13,14 @@ layout: default
     {{ content }}
   </article>
 
-  <div class="batch-nav">
-    {% if page.next.url %}
-      <a class="nav-item" href="{{ page.next.url | prepend: site.baseurl }}">&laquo; neste</a>
-    {% endif %}
-    {% if page.previous.url %}
-      <a class="nav-item" href="{{ page.previous.url | prepend: site.baseurl }}">forrige &raquo;</a>
-    {% endif %}
-  </div>
+  {% if page.next %}
+    <a rel="next" href="{{ site.baseurl }}{{ page.next.url }}" id="next">
+      &larr; <span class="nav-title nav-title-prev">neste batch</span>
+    </a>
+  {% endif %}
+  {% if page.previous %}
+    <a rel="prev" href="{{ site.baseurl }}{{ page.previous.url }}" id="prev">
+      <span class="nav-title nav-title-next">forrige batch</span> &rarr;
+    </a>
+  {% endif %}
 </div>
