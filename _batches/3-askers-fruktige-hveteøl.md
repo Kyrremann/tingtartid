@@ -2,8 +2,8 @@
 layout: batch
 title:  "Batch #3: Askers fruktige hveteøl"
 date:   2018-11-24 10:00:00
-preview: /assets/stefania-crudeli-743745-unsplash-300.png
-main_photo: /assets/stefania-crudeli-743745-unsplash.png
+preview: stefania-crudeli-743745-unsplash-300.png
+main_photo: stefania-crudeli-743745-unsplash.png
 main_photographer: Stefania Crudeli
 main_photo_username: steffcg
 ---

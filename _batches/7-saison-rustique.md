@@ -2,8 +2,8 @@
 layout: batch
 title:  "Batch #7: Saison Rustique"
 date:   2018-12-14 10:00:00
-preview: /assets/randy-fath-772174-unsplash-300.png
-main_photo: /assets/randy-fath-772174-unsplash.png
+preview: randy-fath-772174-unsplash-300.png
+main_photo: randy-fath-772174-unsplash.png
 main_photographer: Randy Fath
 main_photo_username: randyfath
 ---

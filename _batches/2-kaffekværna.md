@@ -2,8 +2,8 @@
 layout: batch
 title:  "Batch #2: Kaffekværna"
 date:   2018-11-03 10:00:00
-preview: /assets/tina-guina-639046-unsplash-300.png
-main_photo: /assets/tina-guina-639046-unsplash.png
+preview: tina-guina-639046-unsplash-300.png
+main_photo: tina-guina-639046-unsplash.png
 main_photographer: Tina Guina
 main_photo_username: kittinskie
 ---
@@ -12,7 +12,7 @@ Etter at jeg fikk blod på tann av å brygge Knuseren sammen med pappa, så øns
 
 Selve bryggingen gikk ikke like bra som første batch. Som forrige gang gikk jeg for dobbeltmesking, men denne gangen sirkulerte ikke meskingen noe særlig, og mesteparten av vørteren gikk i overflow-røret (heldigvis), og det gikk enda dårligere i andre del av meskingen. Så det var første faretegn. Når jeg så skulle la vørteren koke (før humlen blir tilsatt), satt jeg på lokket, og siden jeg ikke var i samme rom som kjelen så endte jeg opp med å koke over en del av vørteren. Man kan trygt si at vasking ble det, og ikke bare bare å få bort seig mørk vørter fra kjele, gulv, og skap.
 
-Heldigvis ble ikke ølen ødelagt av det, jeg fikk smakt på vørteren, målt OG, og alt virket lovende. OG'en var til og med høyere enn forrige batch. Så da var alt klart for første del av gjøringen.
+Heldigvis ble ikke ølen ødelagt av det, jeg fikk smakt på vørteren, målt OG, og alt virket lovende. OG'en var til og med høyere enn forrige batch. Så da var alt klart for første del av gjæringen.
 
 Helgen etterpå var det tid for å eksperimentere med kaffen. Jeg hadde på forhånd delt opp kaffen i fire kar, så det var bare å tilsette kaffe i de forskjellige karene.. Som nevnt tidligere ble det litt endringer i mengde kaffe, og jeg endte opp med å fordele kaffen med 100g, 150g, og 250g. Det mest vanlige er nok heller å brygge kaffe, og blande det inn når man flasker, men jeg ville ha en kraftig kaffesmak. Så da var cold brew løsningen med grovkvernet kaffebønner. Denne helgen hadde jeg også mulighet til å faktisk finne ut om det faktisk ville bli noe god øl, og selv om jeg hadde en pekepinne fra forrige helg, så var jeg veldig spent! Kan trygt si at jeg bommet hardt på stout, men, traff meget godt på brown ale. Så i steden for at jeg kaller ølen "Kaffeknusern" (som var mitt første navnevalg), blir det heller Kaffekverna, en coffee brown ale. Spennende!
 

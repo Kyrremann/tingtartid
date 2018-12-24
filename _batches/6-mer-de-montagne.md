@@ -2,8 +2,8 @@
 layout: batch
 title:  "Batch #6: Mer de Montagne"
 date:   2018-12-08 10:00:00
-preview: /assets/kyrre-havik-eriksen-bergsjø-unsplash-300.png
-main_photo: /assets/kyrre-havik-eriksen-bergsjø-unsplash.png
+preview: kyrre-havik-eriksen-bergsjø-unsplash-300.png
+main_photo: kyrre-havik-eriksen-bergsjø-unsplash.png
 main_photographer: Kyrre Havik Eriksen
 main_photo_username: kyrremann
 ---
@@ -39,4 +39,4 @@ Ble brukt en annen gjær enn nevnt i oppskriften, nemlig M29 French Saison gjær
 
 #### gjæringsnotater
 
-Gikk ikke helt som forventet med denne gjøringen, klarte å varme den opp for mye, så ble stressgjøring. Kommer derfor bare til å la den gjære i to uker før jeg flasker den. Mer om hva som skjedde kan leses i [uhell under gjæring](/2018/12/10/uhell-under-gjæring).
+Gikk ikke helt som forventet med denne gjæringen, klarte å varme den opp for mye, så ble stressgjæring. Kommer derfor bare til å la den gjære i to uker før jeg flasker den. Mer om hva som skjedde kan leses i [uhell under gjæring](/2018/12/10/uhell-under-gjæring).

@@ -2,10 +2,10 @@
 layout: batch
 title:  "Batch #1: Knuser'n"
 date:   2018-10-20 10:00:00
-preview: /assets/knusern300.png
+preview: knusern300.png
 ---
 
-![Bilde fra Byggselv.no](/assets/knusern.png)
+![Bilde fra Byggselv.no](/assets/batch/knusern.png)
 
 Først øl brygget ble en imperial stout kjøpt på Brygg Selv kalt Knuser'n. Er et sammarbeidsbrygg med pappa (aka. Fiskeslo).
 

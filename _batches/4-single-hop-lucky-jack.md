@@ -2,8 +2,8 @@
 layout: batch
 title:  "Batch #4: Single-hop Lucky Jack"
 date:   2018-11-25 10:00:00
-preview: /assets/davies-designs-342848-unsplash-300.png
-main_photo: /assets/davies-designs-342848-unsplash.png
+preview: davies-designs-342848-unsplash-300.png
+main_photo: davies-designs-342848-unsplash.png
 main_photographer: Davies Designs
 main_photo_username: davies_designs
 ---

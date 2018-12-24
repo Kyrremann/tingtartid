@@ -2,13 +2,13 @@
 layout: batch
 title:  "Batch #5: En sjakkmesters weissbier"
 date:   2018-11-28 10:00:00
-preview: /assets/alex-holyoake-467148-unsplash-300.png
-main_photo: /assets/alex-holyoake-467148-unsplash.png
+preview: alex-holyoake-467148-unsplash-300.png
+main_photo: alex-holyoake-467148-unsplash.png
 main_photographer: Alex Holyoake
 main_photo_username: stairhopper
 ---
 
-Denne ølen ble brygget onsdagen da Magnus Carlsen ble verdensmester i sjakk for fjerde gang på rad! Målet med ølen var egentlig bare å teste en gjør som tåler høy gjæringstemperatur, da jeg foreløpig ikke har noe kjøleskap til å gjære i. Gikk for weissbier-oppskriften til Bryggselv.no og byttet ut gjæren med *Belgian Triple Yeast*, gjæres på 18-28 grader. Perfekt for leiligheten min. 
+Denne ølen ble brygget onsdagen da Magnus Carlsen ble verdensmester i sjakk for fjerde gang på rad! Målet med ølen var egentlig bare å teste en gjær som tåler høy gjæringstemperatur, da jeg foreløpig ikke har noe kjøleskap til å gjære i. Gikk for weissbier-oppskriften til Bryggselv.no og byttet ut gjæren med *Belgian Triple Yeast*, gjæres på 18-28 grader. Perfekt for leiligheten min. 
 
 Dette var andre gang jeg brygget i kjele, og som jeg nevnte i forrige batch, så sleit jeg litt med å holde riktig temperatur. Derfor tenkte jeg å bruke en annen plate denne gangen, men var kanskje til og med vanskligere nå. Var flere ganger oppe i 75 grader, før jeg klarte å få stabilisert den på 70 grader. Så vi får se hvordan dette går. Øl blir det nok uansett.
 
