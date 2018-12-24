@@ -5,7 +5,7 @@ date:   2018-12-10 22:05:00
 description: "Ikke alltid like lett å kontrollere temperatur"
 ---
 
-På lørdag satt jeg en ny batch med øl, kalt [Mer de Montagne](/batch/6-mer-de-montagne). Denne gangen ble det en fransk saison med vann fra Bergsjø. Saisoner skal som (u)kjent gjæres på høy varme. Så jeg hadde fått lånt en liten ovn fra en av naboene mine, slik at jeg kunne kontrollere temperaturen min i boden bedre. Når jeg da sjekket ut gjøringen på søndagen, så stod ovnen på fullt, og temperaturmåleren som lå på lokket til gjæringskaret viste 40°C! Krise, tenkte jeg, men, når jeg tilslutt sjekket oppi bøtte var det heldigvis fortsatt liv. Så er jeg heldig så smaker den bare litt ekstra gjær, og jeg slipper å kaste den.
+På lørdag satt jeg en ny batch med øl, kalt [Mer de Montagne](/batch/6-mer-de-montagne). Denne gangen ble det en fransk saison med vann fra Bergsjø. Saisoner skal som (u)kjent gjæres på høy varme. Så jeg hadde fått lånt en liten ovn fra en av naboene mine, slik at jeg kunne kontrollere temperaturen min i boden bedre. Når jeg da sjekket ut gjæringen på søndagen, så stod ovnen på fullt, og temperaturmåleren som lå på lokket til gjæringskaret viste 40°C! Krise, tenkte jeg, men, når jeg tilslutt sjekket oppi bøtte var det heldigvis fortsatt liv. Så er jeg heldig så smaker den bare litt ekstra gjær, og jeg slipper å kaste den.
 
 ![Fransk gjær](/assets/blogg/french_yeast.png)
 
