@@ -21,10 +21,10 @@ Den store utfordringen med å brygge saison er jo at den skal gjære på ganske 
 | Før kok    | N/A        |
 | Etter kok  | 7l         |
 | OG         | 1.056      |
-| FG         | N/A        |
-| ABV        | N/A        |
-| Flasket    | 22.12.2018 |
-| Flasker    |            |
+| FG         | 1.006      |
+| ABV        | 6.7%       |
+| Flasket    | 29.12.2018 |
+| Flasker    | 17 a 0,33l |
 | Ferdig     | 02.02.2018 |
 
 Oppskrift finner du på [bryggselv.no](https://www.bryggselv.no/finest/104872/saison-rustique-allgrain-%C3%B8lsett-25-liter).

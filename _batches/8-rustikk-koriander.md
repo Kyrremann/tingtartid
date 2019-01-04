@@ -19,10 +19,10 @@ Kan også nevne at dette var første gang jeg brukte det nye oksygeneringssettet
 | Før kok    | N/A        |
 | Etter kok  | 7,5l       |
 | OG         | 1.047      |
-| FG         | N/A        |
-| ABV        | N/A        |
+| FG         | 1.010      |
+| ABV        | 4.92%      |
 | Flasket    | 29.01.2019 |
-| Flasker    |            |
+| Flasker    | 21 a 0,33l |
 | Ferdig     | 09.02.2019 |
 
 Oppskrift finner du på [bryggselv.no](https://www.bryggselv.no/finest/104872/saison-rustique-allgrain-%C3%B8lsett-25-liter).

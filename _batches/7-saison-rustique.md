@@ -19,10 +19,10 @@ Bryggingen gikk som forventet, men jeg må bli flinkere på lufting av vørteren
 | Før kok    | N/A        |
 | Etter kok  | 8l         |
 | OG         | 1.049      |
-| FG         | N/A        |
-| ABV        | N/A        |
+| FG         | 1.006      |
+| ABV        | 5.43%      |
 | Flasket    | 04.01.2019 |
-| Flasker    |            |
+| Flasker    | 22 a 0,33l |
 | Ferdig     | 15.02.2019 |
 
 Oppskrift finner du på [bryggselv.no](https://www.bryggselv.no/finest/104872/saison-rustique-allgrain-%C3%B8lsett-25-liter).
