@@ -15,17 +15,20 @@ Vi skulle bare ha 15l vann å meske med, som gjorde at maltgrøten ble ganske ty
 Under kokingen, så husket vi humlepose på første humletilsetning(!), men ikke den andre. Så så klart hadde vi problemer med pumpa når vi skulle kjøle ned vørteren. Heldigvis ikke større problemer enn at vi klarte å få den til å gå igjen. Vi måtte bare rense låsen en gang.
 
 
-| Brygget    | 28.12.2018 |
-| Meskevann  | 15l        |
-| Skyllevann | 20l        |
-| Før kok    | 26.5l      |
-| Etter kok  | 26l        |
-| OG         | 1.051      |
-| FG         | N/A        |
-| ABV        | N/A        |
-| Flasking   | xx.01.2019 |
-| Flasker    |            |
-| Ferdig     | xx.02.2019 |
+| Brygget    | 28.12.2018     |
+| Meskevann  | 15l            |
+| Skyllevann | 20l            |
+| Før kok    | 26.5l          |
+| Etter kok  | 26l            |
+| OG         | 1.051          |
+| FG         | 1.010          |
+| ABV        | 5.38%          |
+| Flasking   | 06.01.2019     |
+| Flasker    | 33 stk a 21,5l |
+| - 0,75l    | 19 stk         |
+| - 0,5l     | 13 stk         |
+| - 0,33l    | 1 stk          |
+| Ferdig     | xx.02.2019     |
 
 Oppskrift finner du på [bryggselv.no](https://www.bryggselv.no/finest/105012/finest-esb-allgrain-%C3%B8lsett-25-liter).
 
