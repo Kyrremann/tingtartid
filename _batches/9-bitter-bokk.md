@@ -25,11 +25,11 @@ Dagen etter, søndag lille julaften var det endelig tid for å tilsette gjæren,
 | OG         | 1.096      |
 | FG         | 1.020      |
 | ABV        | 9.98%      |
-| Flasking   | xx.01.2019 |
+| Flasking   | 06.01.2019 |
 | Flasker    | 16,5l      |
 | - 0,5l     | 20 stk     |
 | - 0,33l    | 19 stk     |
-| Ferdig     | xx.06.2019 |
+| Ferdig?    | 06.06.2019 |
 
 Oppskrift finner du på [bryggselv.no](https://www.bryggselv.no/allgrain/105207/big-burly-barleywine-ølsett-til-20-liter-barsk-og-brutal-barleywine).
 
