@@ -21,10 +21,12 @@ Uansett, dagens brygg får bli som det blir. Tilsetter ikke frukt i denne, men p
 | Før kok    | N/A        |
 | Etter kok  | 8,5l       |
 | OG         | 1.036      |
-| FG         | N/A        |
-| ABV        | N/A        |
-| Flasket    | xx.01.2018 |
-| Ferdig     | xx.02.2019 |
+| FG         | 1.007      |
+| ABV        | 3.81%      |
+| Flasket    | 16.01.2018 |
+| Flasker    |            |
+| - 0,33l    | 26,5 stk   |
+| Ferdig     | 19.02.2019 |
 
 Oppskrift finner du på [bryggselv.no](https://www.bryggselv.no/finest/103008/weissbier-allgrain-%C3%B8lsett-25-liter).
 
@@ -32,3 +34,8 @@ Oppskrift finner du på [bryggselv.no](https://www.bryggselv.no/finest/103008/we
 #### bryggenotater
 
 Ble brukt en annen gjær enn nevnt i oppskriften, nemlig M20 Bavarian Wheat gjær fra Mangrove Jack's.
+
+
+#### flaskenotater
+
+Før flasking ble det tilsatt Blackcurrant te fra Ahmad Tea, brukte 17 poser i 1l kokende vann. Dette endte opp med å bli 0,8l te, som så ble blandet ut i ca 7,5l vørter.

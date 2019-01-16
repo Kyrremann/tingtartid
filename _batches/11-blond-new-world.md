@@ -19,11 +19,12 @@ Kjøpte også en pakke med lakrisrot som jeg tenker å blande oppi etter 7 dager
 | Før kok    | N/A        |
 | Etter kok  | 7,5l       |
 | OG         | 1.035      |
-| FG         | N/A        |
-| ABV        | N/A        |
-| Flasking   | xx.01.2019 |
+| FG         | 1.006      |
+| ABV        | 3.64%      |
+| Flasking   | 16.01.2019 |
 | Flasker    |            |
-| Ferdig     | xx.02.2019 |
+| - 0,33l    | 21,5 stk   |
+| Ferdig     | 19.02.2019 |
 
 Oppskrift finner du på [bryggselv.no](https://www.bryggselv.no/finest/102355/blonde-ale-allgrain-%C3%B8lsett-gahr-edition).
 

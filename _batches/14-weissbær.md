@@ -1,18 +1,20 @@
 ---
 layout: batch
-title:  "Batch #14: Ukjent weissbier"
+title:  "Batch #14: Weissbær"
 date:   2019-01-06 12:00:00
-preview: anna-jakobs-448889-unsplash-300.png
-main_photo: anna-jakobs-448889-unsplash.png
-main_photographer: Anna Jakobs
-main_photo_username: annajakobs
+preview: syd-wachs-128767-unsplash-300.png
+main_photo: syd-wachs-128767-unsplash.png
+main_photographer: Syd Wachs
+main_photo_username: videmusart
 ---
 
 Første søndag i januar skulle jeg flaske [Bitter bokk](/batch/9-bitter-bokk) (som trenger et nytt navn etter å ha smakt på den!), så da tenkte jeg at det også passet å sette en ny batch. Denne gangen ble det en av de fire typene jeg kjøpte fra [Ølbrygging.no](https://www.olbrygging.no/).
 
 Jeg startet med Weissbier da jeg har noen kilo med bær jeg ønsker å bruke opp. Selve bryggeprosessen gikk ikke helt som ønsket, meskingen ble ganske problematisk ved at maltet tyknet til, og jeg måtte hele tiden røre for å få vørteren til å flyte igjennom. Dette igjen førte til mye grums i vørteren. Så jeg var veldig skeptisk til hvor bra dette kom til å bli når den ble satt til gjæring.
 
-Enda ikke funnet et godt navn på denne batchen, kommer til å dele den opp i tre, hvor det blir brukt blåbær i ett kar, blokkbær i ett annet, og base i det siste.
+~~Enda ikke funnet et godt navn på denne batchen, kommer til å dele den opp i tre, hvor det blir brukt blåbær i ett kar, blokkbær i ett annet, og base i det siste.~~
+
+Siden den ble delt opp i tre, med blokkbær i et kar, og blåbær i et annet (egentlig to forskjellige kar), så tenker jeg at Weissbær er et egnet navn.
 
 
 | Brygget    | 06.01.2019 |
@@ -37,3 +39,10 @@ Hadde problemer med tykk mesk, som tvang meg til å røre mye i malten. Kan hend
 #### gjæringsnotater
 
 Tok en ny titt på gjæringskaret fire dager etter brygging, og det var nesten 5cm med bunnfall, men den hadde gjæret godt ned til *1.020*, og fått en godt smak! Så selv om jeg var tvilsom i starten, så tror jeg dette kan bli en god øl, som jeg trygt kan bruke bærene mine på!
+
+Mandag 14. januar ble det tilsatt bær i tre forskjellige kar. Måtte dele blåbærene i to kar, da jeg kun hadde ett 10l-kar.
+
+
+| 6l vørter | 500g blokkebær |
+| 4l vørter | 400g blåbær    |
+| 4l vørter | 500g blåbær    |
