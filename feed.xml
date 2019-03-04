@@ -26,5 +26,15 @@ layout: null
         {% endfor %}
       </item>
     {% endfor %}
+
+    {% for batch in site.batches limit:10 %}
+      <item>
+        <title>{{ batch.title | xml_escape }}</title>
+        <description>{{ batch.content | xml_escape }}</description>
+        <pubDate>{{ batch.date | date_to_rfc822 }}</pubDate>
+        <link>{{ batch.url | prepend: site.baseurl | prepend: site.url }}</link>
+        <guid isPermaLink="true">{{ batch.url | prepend: site.baseurl | prepend: site.url }}</guid>
+      </item>
+    {% endfor %}
   </channel>
 </rss>
