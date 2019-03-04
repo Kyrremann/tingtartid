@@ -17,16 +17,22 @@ Jeg startet med Weissbier da jeg har noen kilo med bær jeg ønsker å bruke opp
 Siden den ble delt opp i tre, med blokkbær i et kar, og blåbær i et annet (egentlig to forskjellige kar), så tenker jeg at Weissbær er et egnet navn.
 
 
-| Brygget    | 06.01.2019 |
-| Meskevann  | 18.6l      |
-| Skyllevann | 14l        |
-| Før kok    | 26l        |
-| Etter kok  | 21.5l      |
-| OG         | 1.060      |
-| FG         | N/A        |
-| ABV        | N/A        |
-| Flasket    | xx.01.2018 |
-| Ferdig     | xx.02.2019 |
+| Brygget     | 06.01.2019 |
+| Meskevann   | 18.6l      |
+| Skyllevann  | 14l        |
+| Før kok     | 26l        |
+| Etter kok   | 21.5l      |
+| OG          | 1.060      |
+| FG          |            |
+| - base      | 1.020      |
+| - blåbær    | 1.015      |
+| - blokkbær  | 1.016      |
+| ABV         |            |
+| - base      | 5.25%      |
+| - blåbær    | 5.91%      |
+| - blokkebær | 5.78%     |
+| Flasket     | 20.01.2018 |
+| Ferdig      | 24.02.2019 |
 
 Oppskrift finner du på [olbrygging.no](https://www.olbrygging.no/%C3%B8lbrygging-as/100355/weissbier-allgrain-%C3%B8lsett-tradisjonelt-hvete%C3%B8l-fra-syd-tyskland)
 
@@ -38,9 +44,9 @@ Hadde problemer med tykk mesk, som tvang meg til å røre mye i malten. Kan hend
 
 #### gjæringsnotater
 
-Tok en ny titt på gjæringskaret fire dager etter brygging, og det var nesten 5cm med bunnfall, men den hadde gjæret godt ned til *1.020*, og fått en godt smak! Så selv om jeg var tvilsom i starten, så tror jeg dette kan bli en god øl, som jeg trygt kan bruke bærene mine på!
+Tok en ny titt på gjæringskaret fire dager etter brygging, og det var nesten 5cm med bunnfall, men den hadde gjæret ned til *1.020*, og fått en godt smak! Så selv om jeg var tvilsom i starten, så tror jeg dette kan bli en god øl, som jeg trygt kan bruke bærene mine på!
 
-Mandag 14. januar ble det tilsatt bær i tre forskjellige kar. Måtte dele blåbærene i to kar, da jeg kun hadde ett 10l-kar.
+Mandag 14. januar ble det tilsatt bær i tre forskjellige kar. Måtte dele blåbærene i to kar, da jeg kun hadde ett 10l-kar. Karene med blåbær ble så blandet sammen igjen før flasking.
 
 
 | 6l vørter | 500g blokkebær |

@@ -19,10 +19,12 @@ Gikk veldig likt som forrige gang, dårlig med utmesking, så tror jeg skal gå 
 | Før kok    | N/A        |
 | Etter kok  | 9l         |
 | OG         | 1.037      |
-| FG         | N/A        |
-| ABV        | N/A        |
-| Flasket    | xx.01.2018 |
-| Ferdig     | xx.02.2019 |
+| FG         | 1.008      |
+| ABV        | 3.64%      |
+| Flasket    | 19.01.2018 |
+| Flasker    |            |
+| - 0,33l    | 24 stk     |
+| Ferdig     | 23.02.2019 |
 
 Oppskrift finner du på [bryggselv.no](https://www.bryggselv.no/finest/103008/weissbier-allgrain-%C3%B8lsett-25-liter).
 
