@@ -1,6 +1,6 @@
 ---
 layout: batch
-title:  "Batch #9: Bitter bokk"
+title:  "Batch #9: Big Burley Barleywine"
 date:   2018-12-22 12:00:00
 preview: kyrre-havik-eriksen-1245384-unsplash-300.png
 main_photo: kyrre-havik-eriksen-1245384-unsplash.png
