@@ -19,8 +19,8 @@ Prøvde å søke meg opp på hvordan man lager einerlåg, men som ved tilføying
 | Før kok    | N/A        |
 | Etter kok  | 25l        |
 | OG         | 1.064      |
-| FG         | N/A        |
-| ABV        | N/A        |
+| FG         | 1.013      |
+| ABV        | 6.69%      |
 | Flasket    | N/A        |
 | Ferdig     | N/A        |
 
@@ -33,3 +33,13 @@ Oppskrift finner du på [olbrygging.no](https://www.olbrygging.no/%C3%B8lbryggin
 Pappa hadde kjøpt et Grainfather Wortometer for å gjøre kjølingen enklere, ved at man ser hvor kald vørteren er på vei ut av motstrømskjøleren. Og dette fungerte utmerket! Det gikk mye kjappere å kjøle ned vørtere nå, enn tidligere.
 
 Ellers er det jo ikke en skikkelig bryggedag uten at man glemmer noe. Denne gangen glemte jeg å desinfisere kjøleren før kokingen var over, så måtte koke litt ekstra. Pluss jeg glemte å tilsette gjærnæring, men tror det skal gå bra for det.
+
+
+#### gjæringsnotater
+
+Denne batchen ble delt opp i tre, størstedelen ble basen, 8l ble brukt til å blande med Amoretti Red sour cherry, brukt ca. halve boksen. I ettertid viser det seg at dette ble for lite, da det er lite kirsebærsmak å spore i ølen. Siste 4l ble brukt til å blande med råøl jeg hadde fått av Eik & Tid!
+
+
+#### smaksrapport
+
+Selve basen, med einerlåg har en god smak, selv om det kanskje ikke er helt min type øl. Dessverre har noen av flaskene vært litt dø, som jeg syns har påvirket opplevelsen negativt. Batchen som ble blandet med sour cherry vil jeg ikke si var vellykket, da man nesten ikke kan smake noe av kirsebæren. Den delen som ble blandet med råøl husker (vet ikke) jeg ikke hvordan var, og jeg finner heller ikke flere flasker merket med det.
