@@ -16,10 +16,10 @@ Endelig ble det litt brygging på meg også! Nå er det 6 måneder siden sist, o
 | Før kok    | 27l        |
 | Etter kok  | 21l        |
 | OG         | 1.046      |
-| FG         | N/A        |
-| ABV        | N/A        |
-| Flasket    | N/A        |
-| Ferdig     | N/A        |
+| FG         | 1.010      |
+| ABV        | 4,7%       |
+| Flasket    | 16l        |
+| Ferdig     | 23.11.2019 |
 
 Oppskriften er fra Olbrygging.no, men ligger ikke ute på nettet.
 
