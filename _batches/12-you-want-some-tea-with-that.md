@@ -23,7 +23,7 @@ Uansett, dagens brygg får bli som det blir. Tilsetter ikke frukt i denne, men p
 | OG         | 1.036      |
 | FG         | 1.007      |
 | ABV        | 3.81%      |
-| Flasket    | 16.01.2018 |
+| Flasket    | 16.01.2019 |
 | Flasker    |            |
 | - 0,33l    | 26,5 stk   |
 | Ferdig     | 19.02.2019 |
