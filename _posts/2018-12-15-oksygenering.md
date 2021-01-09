@@ -9,4 +9,4 @@ Etter fredagens forglemmelse og dårlig lufting av vørteren, gikk jeg til innkj
 
 Settet var ganske enkelt å bruke. Man kobler alt sammen, desinfiserer oksygeneringssteinen, legger steinen oppi vørteren, og skrur på oksygenen. Lar dette holde på i ca. et minutt mens man rører steinen rundt.
 
-Ble brukt på dagens [Rustikk koriander](/batch/8-rustikk-koriander), så blir spennende å se om jeg merker noe særlig forskjell. Burde vel kanskje lagd en kontroll batch, men får gjøre det neste gang jeg brygger større mengder med Grainfather.
+Ble brukt på dagens [Rustikk koriander](/batch/08-rustikk-koriander), så blir spennende å se om jeg merker noe særlig forskjell. Burde vel kanskje lagd en kontroll batch, men får gjøre det neste gang jeg brygger større mengder med Grainfather.

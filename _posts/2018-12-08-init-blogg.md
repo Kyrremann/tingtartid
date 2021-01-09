@@ -19,6 +19,6 @@ Jeg fant ut at jeg også hadde lyst til å skrive om litt andre ting en bare bat
 
 #### ny øl og spiralkjøler
 
-Siden det er lørdag, og det ikke ble noen av begge planene jeg hadde lagd i dag, så ble det tid for brygging av øl! Denne gangen er det en fransk saison med en liten overraskelse som der kan lese om på siden til [batch #6](/batch/6-mer-de-montagne).
+Siden det er lørdag, og det ikke ble noen av begge planene jeg hadde lagd i dag, så ble det tid for brygging av øl! Denne gangen er det en fransk saison med en liten overraskelse som der kan lese om på siden til [batch #6](/batch/06-mer-de-montagne).
 
 Jeg har også gått til innkjøp av en liten spiralkjøler for å slippe å styre med kaldt vann og isbiter, så nå skal (håper jeg) nedkjølingen gå som en drøm. Har hørt lovord om at det skal gå på 25 minutter, så det høres jo ganske chill ut.

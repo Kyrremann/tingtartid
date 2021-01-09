@@ -56,7 +56,7 @@ kaffe. Basert på tidligere erfaringer gikk jeg for det som kalles
 [kaldbrygging](https://en.wikipedia.org/wiki/List_of_coffee_drinks#Cold_brew), hvor jeg lot den kværna kaffen ligge over
 natten. I underkant av ti timer ble det denne gangen. Glemte dessverre å notere ned tidene.
 
-Som med [Kaffekværna](/batch/2-kaffekværna.md) er målet å lage en øl som smaker kaffe først, og så øl/alkohol. Noen
+Som med [Kaffekværna](/batch/02-kaffekværna.md) er målet å lage en øl som smaker kaffe først, og så øl/alkohol. Noen
 ville nok heller sagt at jeg burde drikke Irish Coffee. Forrige gang prøvde jeg meg med 100g, 150g, og 250g. Denne
 gangen ble det 40g som er hva oppskriften anbefaler i et kar, mens de to andre ble det tilsatt 225g og 450g. Smakte på
 40g og 450g versjonen mens jeg flasket, og 40g smaker med som en kaffestout, mens 460g smaker definitivt kaffe først! En

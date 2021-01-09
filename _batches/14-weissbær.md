@@ -8,7 +8,7 @@ main_photographer: Syd Wachs
 main_photo_username: videmusart
 ---
 
-Første søndag i januar skulle jeg flaske [Bitter bokk](/batch/9-bitter-bokk) (som trenger et nytt navn etter å ha smakt på den!), så da tenkte jeg at det også passet å sette en ny batch. Denne gangen ble det en av de fire typene jeg kjøpte fra [Ølbrygging.no](https://www.olbrygging.no/).
+Første søndag i januar skulle jeg flaske [Bitter bokk](/batch/09-big-burly-barleywine) (som trenger et nytt navn etter å ha smakt på den!), så da tenkte jeg at det også passet å sette en ny batch. Denne gangen ble det en av de fire typene jeg kjøpte fra [Ølbrygging.no](https://www.olbrygging.no/).
 
 Jeg startet med Weissbier da jeg har noen kilo med bær jeg ønsker å bruke opp. Selve bryggeprosessen gikk ikke helt som ønsket, meskingen ble ganske problematisk ved at maltet tyknet til, og jeg måtte hele tiden røre for å få vørteren til å flyte igjennom. Dette igjen førte til mye grums i vørteren. Så jeg var veldig skeptisk til hvor bra dette kom til å bli når den ble satt til gjæring.
 

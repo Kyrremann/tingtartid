@@ -8,7 +8,7 @@ main_photographer: Alina Miroshnichenko
 main_photo_username: chemrain
 ---
 
-Endelig var det tid for å brygge på nytt! Er nesten to måneder siden sist, så det var på høy tid med noe nytt. Denne gangen ble det en blanding av Farmhouse Ale (som jeg kjøpte før jul), sammen med einer som pappa hadde hentet i skogen helgen før. Planen var å prøve å lage einerlåg, og meske malten med einerlågen. Er ikke første gang jeg prøver noe nytt med vannet (se [Mer de Montagne](/batch/6-mer-de-montagne)), og einerlåg er heller ikke noe nytt i norsk bryggekultur.
+Endelig var det tid for å brygge på nytt! Er nesten to måneder siden sist, så det var på høy tid med noe nytt. Denne gangen ble det en blanding av Farmhouse Ale (som jeg kjøpte før jul), sammen med einer som pappa hadde hentet i skogen helgen før. Planen var å prøve å lage einerlåg, og meske malten med einerlågen. Er ikke første gang jeg prøver noe nytt med vannet (se [Mer de Montagne](/batch/06-mer-de-montagne)), og einerlåg er heller ikke noe nytt i norsk bryggekultur.
 
 Prøvde å søke meg opp på hvordan man lager einerlåg, men som ved tilføying av kaffe, man velger fritt selv. Jeg gikk for å tilføye einerlågen før jeg varmet opp vannet til meskingen, og tok eineren ut etter at jeg var ferdig med meskingen. Som betyr at eineren fikk badet i omtrent to timer. Dessverre ikke helt oversikt over mengden einer, da jeg ikke skjønte helt hvordan jeg best kunne veie den. Kan melde fra om at det lukter veldig godt av einer, og einerlåg!
 
