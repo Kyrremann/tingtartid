@@ -28,3 +28,9 @@ som jeg tror det blir, kommer jeg nok til å begynne å brygge dette hjemme i le
 | Ferdig     | 22.01.2021 |
 
 Oppskriften/settet finner du på [bryggselv.no](https://www.bryggselv.no/mangrove-jack-s/103805/elderflower-and-lime-cider-pouch-craft-series-2-4-kg).
+
+#### smaksrapport
+
+Cideren var ikke drikkbar 22. januar, da den hadde en sterk gjærsmak, men nå nesten 5 måneder etterpå begynner den å 
+bli god. Fortsatt litt mer gjærsmak enn jeg ønsker, men cidersmaken er blitt mye mer fremtrende. Et par måneder til 
+så tror jeg den er ferdig.
