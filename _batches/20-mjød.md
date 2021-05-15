@@ -36,12 +36,11 @@ Det ble brukt en pakke Mangrove Jack's Mead Yeast M05 til hver batch.
 | Vann       | 3l         |
 | Honning    | 2kg        |
 | Temperatur | 35-50      |
-| Must       | 4,5k       |
+| Must       | 4,5l       |
 | OG         | 1.131      |
-| FG         | TBD        |
-| ABV        | TBD        |
-| Flasket    | TBD        |
-| Ferdig     | TBD        |
+| FG         | 1.032      |
+| ABV        | 12.99%     |
+| Flasket    | 04.02.2021 |
 
 #### Andre mjød
 
@@ -51,7 +50,21 @@ Det ble brukt en pakke Mangrove Jack's Mead Yeast M05 til hver batch.
 | Temperatur | 35-40      |
 | Must       | 5l         |
 | OG         | 1.129      |
-| FG         | TBD        |
-| ABV        | TBD        |
-| Flasket    | TBD        |
-| Ferdig     | TBD        |
+| FG         | 1.027      |
+| ABV        | 13.39%     |
+| Flasket    | 04.02.2021 |
+
+#### bryggenotater
+
+Jeg endte opp med å drepe gjæren to uker før jeg flasket ølen, samtidig brukte jeg også klarningsmiddel, slik at det 
+meste av partiklene sank til bunn. Neste gang tror jeg kanskje jeg vil også prøve å sile mjøden, for å få den enda 
+klarere.
+
+Brukte Mangrove Jack's Liquid Beer Finings som klarningsmiddel og en blanding av kalium sorbat og sulfitt for å drepe
+gjæren.
+
+#### smaksrapport
+
+Vi har prøvd begge mjødene et par ganger de siste månedene (i dag er det 15.05.2021), og det er fortsatt en gjærprofil, 
+så den må nok stå en stund til før jeg er helt fornøyd. Ellers syns jeg den har blitt tørr og søt, slik jeg ønsket. Kan
+ikke si jeg smaker noe særlig forskjell på 3l og 3,5l vann.
