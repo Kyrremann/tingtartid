@@ -27,6 +27,8 @@ Denne gangen ble det brukt en pakke Lallemand Lalvin EC1118 Champagne gjær.
 | ABV        | TBD        |
 | Flasket    | TBD        |
 
+![Gjærende must i 5l glassballong](/assets/batch/mer-mjød.png)
+
 #### bryggenotater
 
 Brukte samme "oppskrift" som i [batch #20](20-mjød), som jeg føler er en effektiv og enkel måte å lage mjød på.
