@@ -30,7 +30,7 @@ lest at det kan sette usmak på mjøden.
 
 Det ble brukt en pakke Mangrove Jack's Mead Yeast M05 til hver batch.
 
-#### Første mjød
+#### første mjød
 
 | Satt       | 07.12.2020 |
 | Vann       | 3l         |
@@ -42,7 +42,7 @@ Det ble brukt en pakke Mangrove Jack's Mead Yeast M05 til hver batch.
 | ABV        | 12.99%     |
 | Flasket    | 04.02.2021 |
 
-#### Andre mjød
+#### andre mjød
 
 | Satt       | 07.12.2020 |
 | Vann       | 3,5l       |
