@@ -15,8 +15,6 @@ Da slipper jeg å kjøpe inn store mengde bær, også kan jeg enkelt prøve fors
 
 Denne gangen ble det brukt en pakke Lallemand Lalvin EC1118 Champagne gjær.
 
-#### Tredje mjød
-
 | Satt       | 11.06.2023 |
 | Vann       | 3l         |
 | Honning    | 3kg        |
