@@ -22,8 +22,8 @@ For å gjøre det enklere å sammenligne med de to første batchene mine valgte 
 | Temperatur | 35         |
 | Must       | 5l         |
 | OG         | 1.180      |
-| FG         | TBD        |
-| ABV        | TBD        |
+| FG         | 1.120      |
+| ABV        | 7,5%       |
 | Flasket    | TBD        |
 
 #### bryggenotater
@@ -33,6 +33,10 @@ Jeg antar dette er fordi jeg sikkert fikk litt mer enn 3kg honning.
 Tok ikke bryet med å veie de selv, da alt lå i små syltetøyglass.
 
 Nå står de begge å gjærer i kjelleren som bare det!
+
+16.07.23 ble gjæren drept.
+
+07.08.23 ble 4l fordelt på 2l glasskrukker og tilsatt 2dl blåbær i den ene, og 1,5dl rips i den andre. Brukte sirup som jeg hadde lagd med å blande bær og sukker (1:1) i et eget glass. Ble også 0,5l til overs som jeg helte over i en flaske.
 
 #### smaksrapport
 
