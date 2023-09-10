@@ -24,7 +24,7 @@ For å gjøre det enklere å sammenligne med de to første batchene mine valgte 
 | OG         | 1.180      |
 | FG         | 1.120      |
 | ABV        | 7,5%       |
-| Flasket    | TBD        |
+| Flasket    | 26.08.2023 |
 
 #### bryggenotater
 

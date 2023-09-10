@@ -23,7 +23,7 @@ Denne gangen ble det brukt en pakke Lallemand Lalvin EC1118 Champagne gjær.
 | OG         | 1.180      |
 | FG         | 1.140      |
 | ABV        | 5,25%      |
-| Flasket    | TBD        |
+| Flasket    | 09.09.2023 |
 
 ![Gjærende must i 5l glassballong](/assets/batch/mer-mjød.png)
 
