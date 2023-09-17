@@ -1,7 +1,6 @@
 ---
 layout: batch
 title:  "Batch #15: Einerlåg og våningshus"
-date:   2019-02-28 12:00:00
 preview: alina-miroshnichenko-418350-unsplash-300.png
 main_photo: alina-miroshnichenko-418350-unsplash.png
 main_photographer: Alina Miroshnichenko

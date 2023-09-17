@@ -1,7 +1,6 @@
 ---
 layout: batch
 title:  "Batch #25: Fjerde mjød"
-date:   2023-06-13 10:00:00
 preview: cristina-marin-PRS2m3KI9D0-unsplash-300.png
 main_photo: cristina-marin-PRS2m3KI9D0-unsplash.png
 main_photographer: Cristina Marin

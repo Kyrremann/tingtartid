@@ -1,7 +1,6 @@
 ---
 layout: batch
 title:  "Batch #23: Flamingofest"
-date:   2021-05-15 12:00:00
 preview: sharisse-bullock-2dOmHAE9VlM-unsplash-300.png
 main_photo: sharisse-bullock-2dOmHAE9VlM-unsplash.png
 main_photographer: Sharisse Bullock

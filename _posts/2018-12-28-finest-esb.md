@@ -1,7 +1,6 @@
 ---
 layout: batch
 title:  "Batch #10: Finest ESB"
-date:   2018-12-28 12:00:00
 preview: eric-tompkins-1083195-unsplash-300.png
 main_photo: eric-tompkins-1083195-unsplash.png
 main_photographer: Eric Tompkins

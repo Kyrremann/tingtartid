@@ -1,7 +1,6 @@
 ---
 layout: batch
 title:  "Batch #21: Hylleblomst og lime"
-date:   2021-01-07 10:00:00
 preview: cam-james-qtDslDRnpUA-unsplash-300.png
 main_photo: cam-james-qtDslDRnpUA-unsplash.png
 main_photographer: Cam James

@@ -1,7 +1,6 @@
 ---
 layout: post
 title:  "Ølcocktail: Black & Tan"
-date:   2021-01-11 12:00:00
 description: "Blanding av pale ale og stout"
 ---
 

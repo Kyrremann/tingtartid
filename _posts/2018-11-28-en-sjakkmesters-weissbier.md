@@ -1,7 +1,6 @@
 ---
 layout: batch
 title:  "Batch #5: En sjakkmesters weissbier"
-date:   2018-11-28 10:00:00
 preview: alex-holyoake-467148-unsplash-300.png
 main_photo: alex-holyoake-467148-unsplash.png
 main_photographer: Alex Holyoake

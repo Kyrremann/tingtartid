@@ -1,7 +1,6 @@
 ---
 layout: batch
 title:  "Batch #18: Pumpkin Ale"
-date:   2019-09-29 10:00:00
 preview: josh-couch-4wln43eqGjg-unsplash-300.png
 main_photo: josh-couch-4wln43eqGjg-unsplash.png
 main_photographer: Josh Couch

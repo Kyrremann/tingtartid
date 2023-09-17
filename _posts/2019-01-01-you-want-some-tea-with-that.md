@@ -1,7 +1,6 @@
 ---
 layout: batch
 title:  "Batch #12: You want some tea with that..."
-date:   2019-01-01 12:00:00
 preview: carolyn-v-563060-unsplash-300.png
 main_photo: carolyn-v-563060-unsplash.png
 main_photographer: Carolyn V

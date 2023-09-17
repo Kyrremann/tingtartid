@@ -1,7 +1,6 @@
 ---
 layout: batch
 title:  "Batch #22: Asker Noir"
-date:   2021-01-08 10:00:00
 preview: nordic-noir-300.jpeg
 ---
 

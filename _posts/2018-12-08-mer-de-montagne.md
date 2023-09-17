@@ -1,7 +1,6 @@
 ---
 layout: batch
 title:  "Batch #6: Mer de Montagne"
-date:   2018-12-08 10:00:00
 preview: kyrre-havik-eriksen-bergsjø-unsplash-300.png
 main_photo: kyrre-havik-eriksen-bergsjø-unsplash.png
 main_photographer: Kyrre Havik Eriksen

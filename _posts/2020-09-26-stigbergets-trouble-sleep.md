@@ -1,7 +1,6 @@
 ---
 layout: batch
 title:  "Batch #19: Stigebergets Trouble Sleep"
-date:   2020-09-26 10:00:00
 preview: stigbergets-trouble-sleep-300.png
 main_photo: stigbergets-trouble-sleep.png
 ---

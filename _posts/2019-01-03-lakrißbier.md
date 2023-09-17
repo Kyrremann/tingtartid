@@ -1,7 +1,6 @@
 ---
 layout: batch
 title:  "Batch #13: Lakrißbier"
-date:   2019-01-03 12:00:00
 preview: matt-hoffman-103242-unsplash-300.png
 main_photo: matt-hoffman-103242-unsplash.png
 main_photographer: Matt Hoffman

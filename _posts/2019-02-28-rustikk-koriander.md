@@ -1,7 +1,6 @@
 ---
 layout: batch
 title:  "Batch #16: Rustikk koriander"
-date:   2019-03-03 12:00:00
 preview: tomasz-olszewski-793487-unsplash-300.png
 main_photo: tomasz-olszewski-793487-unsplash.png
 main_photographer: Tomasz Olszewski

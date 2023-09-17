@@ -1,7 +1,6 @@
 ---
 layout: batch
 title:  "Batch #11: Blonde New World"
-date:   2018-12-29 12:00:00
 preview: kyle-glenn-597606-unsplash-300.png
 main_photo: kyle-glenn-597606-unsplash.png
 main_photographer: Kyle Glenn

@@ -1,7 +1,6 @@
 ---
 layout: batch
 title:  "Batch #17: Askers fruktige hveteøl"
-date:   2019-03-09 10:00:00
 preview: stefania-crudeli-743745-unsplash-300.png
 main_photo: stefania-crudeli-743745-unsplash.png
 main_photographer: Stefania Crudeli
