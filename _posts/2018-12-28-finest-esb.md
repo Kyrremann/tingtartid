@@ -1,5 +1,5 @@
 ---
-layout: batch
+layout: post
 title:  "Batch #10: Finest ESB"
 preview: eric-tompkins-1083195-unsplash-300.png
 main_photo: eric-tompkins-1083195-unsplash.png

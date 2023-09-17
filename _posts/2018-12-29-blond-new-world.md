@@ -1,5 +1,5 @@
 ---
-layout: batch
+layout: post
 title:  "Batch #11: Blonde New World"
 preview: kyle-glenn-597606-unsplash-300.png
 main_photo: kyle-glenn-597606-unsplash.png

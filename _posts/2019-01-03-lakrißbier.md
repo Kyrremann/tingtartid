@@ -1,5 +1,5 @@
 ---
-layout: batch
+layout: post
 title:  "Batch #13: Lakrißbier"
 preview: matt-hoffman-103242-unsplash-300.png
 main_photo: matt-hoffman-103242-unsplash.png

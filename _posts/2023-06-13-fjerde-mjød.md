@@ -1,5 +1,5 @@
 ---
-layout: batch
+layout: post
 title:  "Batch #25: Fjerde mjød"
 preview: cristina-marin-PRS2m3KI9D0-unsplash-300.png
 main_photo: cristina-marin-PRS2m3KI9D0-unsplash.png

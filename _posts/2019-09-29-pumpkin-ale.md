@@ -1,5 +1,5 @@
 ---
-layout: batch
+layout: post
 title:  "Batch #18: Pumpkin Ale"
 preview: josh-couch-4wln43eqGjg-unsplash-300.png
 main_photo: josh-couch-4wln43eqGjg-unsplash.png

@@ -1,5 +1,5 @@
 ---
-layout: batch
+layout: post
 title:  "Batch #21: Hylleblomst og lime"
 preview: cam-james-qtDslDRnpUA-unsplash-300.png
 main_photo: cam-james-qtDslDRnpUA-unsplash.png

@@ -1,5 +1,5 @@
 ---
-layout: batch
+layout: post
 title:  "Batch #4: Single-hop Lucky Jack"
 preview: davies-designs-342848-unsplash-300.png
 main_photo: davies-designs-342848-unsplash.png

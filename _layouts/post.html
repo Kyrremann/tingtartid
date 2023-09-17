@@ -1,25 +1,26 @@
 ---
 layout: default
 ---
-<div class="post">
-  <header class="post-header">
-    <h1 class="post-title">{{ page.title }}</h1>
+<div class="batch">
+  <header class="batch-header">
+    <h1 class="batch-title">{{ page.title }}</h1>
   </header>
 
-  <article class="post-content">
+  <article class="batch-content">
+    {% if page.main_photo %}
+      {% include unsplash.html %}
+    {% endif %}
     {{ content }}
   </article>
 
-
   {% if page.next %}
-    <a rel="next" href="{{ page.next.url | prepend: site.baseurl }}" id="next">
-      &larr; <span class="nav-title nav-title-prev">neste</span>
+    <a rel="next" href="{{ site.baseurl }}{{ page.next.url }}" id="next">
+      &larr; <span class="nav-title nav-title-prev">neste batch</span>
     </a>
   {% endif %}
   {% if page.previous %}
-    <a rel="prev" href="{{  page.previous.url | prepend: site.baseurl }}" id="prev">
-      <span class="nav-title nav-title-next">forrige</span> &rarr;
+    <a rel="prev" href="{{ site.baseurl }}{{ page.previous.url }}" id="prev">
+      <span class="nav-title nav-title-next">forrige batch</span> &rarr;
     </a>
   {% endif %}
-  </div>
 </div>

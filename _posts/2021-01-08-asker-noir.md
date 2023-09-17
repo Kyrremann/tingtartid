@@ -1,5 +1,5 @@
 ---
-layout: batch
+layout: post
 title:  "Batch #22: Asker Noir"
 preview: nordic-noir-300.jpeg
 ---

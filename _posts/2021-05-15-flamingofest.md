@@ -1,5 +1,5 @@
 ---
-layout: batch
+layout: post
 title:  "Batch #23: Flamingofest"
 preview: sharisse-bullock-2dOmHAE9VlM-unsplash-300.png
 main_photo: sharisse-bullock-2dOmHAE9VlM-unsplash.png

@@ -1,5 +1,5 @@
 ---
-layout: batch
+layout: post
 title:  "Batch #5: En sjakkmesters weissbier"
 preview: alex-holyoake-467148-unsplash-300.png
 main_photo: alex-holyoake-467148-unsplash.png

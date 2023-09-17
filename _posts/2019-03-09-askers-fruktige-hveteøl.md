@@ -1,5 +1,5 @@
 ---
-layout: batch
+layout: post
 title:  "Batch #17: Askers fruktige hveteøl"
 preview: stefania-crudeli-743745-unsplash-300.png
 main_photo: stefania-crudeli-743745-unsplash.png

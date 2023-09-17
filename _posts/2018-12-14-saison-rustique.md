@@ -1,5 +1,5 @@
 ---
-layout: batch
+layout: post
 title:  "Batch #7: Saison Rustique"
 preview: randy-fath-772174-unsplash-300.png
 main_photo: randy-fath-772174-unsplash.png

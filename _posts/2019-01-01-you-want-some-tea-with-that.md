@@ -1,5 +1,5 @@
 ---
-layout: batch
+layout: post
 title:  "Batch #12: You want some tea with that..."
 preview: carolyn-v-563060-unsplash-300.png
 main_photo: carolyn-v-563060-unsplash.png

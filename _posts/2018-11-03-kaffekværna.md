@@ -1,5 +1,5 @@
 ---
-layout: batch
+layout: post
 title:  "Batch #2: Kaffekværna"
 preview: tina-guina-639046-unsplash-300.png
 main_photo: tina-guina-639046-unsplash.png

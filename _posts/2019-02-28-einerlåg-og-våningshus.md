@@ -1,5 +1,5 @@
 ---
-layout: batch
+layout: post
 title:  "Batch #15: Einerlåg og våningshus"
 preview: alina-miroshnichenko-418350-unsplash-300.png
 main_photo: alina-miroshnichenko-418350-unsplash.png

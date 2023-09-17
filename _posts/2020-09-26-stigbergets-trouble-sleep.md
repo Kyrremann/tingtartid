@@ -1,5 +1,5 @@
 ---
-layout: batch
+layout: post
 title:  "Batch #19: Stigebergets Trouble Sleep"
 preview: stigbergets-trouble-sleep-300.png
 main_photo: stigbergets-trouble-sleep.png

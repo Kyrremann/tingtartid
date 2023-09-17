@@ -1,5 +1,5 @@
 ---
-layout: batch
+layout: post
 title:  "Batch #6: Mer de Montagne"
 preview: kyrre-havik-eriksen-bergsjø-unsplash-300.png
 main_photo: kyrre-havik-eriksen-bergsjø-unsplash.png
