@@ -5,7 +5,7 @@ preview: blackntan-300.png
 description: "Blanding av pale ale og stout"
 ---
 
-![Min black & tan øl](/assets/batch/blackntan.png)
+![Min black & tan øl]({{ site.baseurl }}/assets/batch/blackntan.png)
 
 Ikke alle øl kan brygges, noen ganger må man bare blande to varianter for å lage en ny tredje variant. En såkalt 
 ølcocktail. Jeg har før prøvd å lage både [Shandy](https://en.wikipedia.org/wiki/Shandy) og 
