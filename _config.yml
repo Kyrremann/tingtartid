@@ -1,7 +1,8 @@
 title: Ting Tar Tid
 email: kyrremann@gmail.com
 description: et lite hjemmebryggeri som fokuserer på mørk, kraftig, og alternativ øl
-url: "https://tingtartid.beer"
+url: "https://kyrremann.no/tingtartid"
+baseurl: "/tingtartid"
 untappd_brewery_name: "tingtartid"
 plugins:
   - jekyll-seo-tag
