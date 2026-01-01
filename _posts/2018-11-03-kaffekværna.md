@@ -2,9 +2,9 @@
 layout: post
 title:  "Batch #2: Kaffekværna"
 preview: tina-guina-639046-unsplash-300.png
-main_photo: tina-guina-639046-unsplash.png
-main_photographer: Tina Guina
-main_photo_username: kittinskie
+photo: tina-guina-639046-unsplash.png
+unsplash_photographer: Tina Guina
+unsplash_username: kittinskie
 ---
 
 Etter at jeg fikk blod på tann av å brygge Knuseren sammen med pappa, så ønsket jeg å prøve å brygge noe helt alene også. Derfor kom jeg på idéen om å sette en ny batch av Knusern, men denne gangen dele batchen i fire og tilsette kaffe i tre av karene. Jeg hadde kjøpt inn 1.125g med kaffe, men etter at litt rådføring med familie og kjæreste, endte jeg opp med å kun bruke 500g (de resterende posene ble delt ut, til alles store glede). Se tabell nederst på siden for mer informasjon om kaffen.

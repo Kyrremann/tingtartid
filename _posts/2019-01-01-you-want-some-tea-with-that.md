@@ -2,9 +2,9 @@
 layout: post
 title:  "Batch #12: You want some tea with that..."
 preview: carolyn-v-563060-unsplash-300.png
-main_photo: carolyn-v-563060-unsplash.png
-main_photographer: Carolyn V
-main_photo_username: sixteenmilesout
+photo: carolyn-v-563060-unsplash.png
+unsplash_photographer: Carolyn V
+unsplash_username: sixteenmilesout
 ---
 
 Det ble ikke langt inn i 2019 før jeg satt mitt første brygg! Kjøpte inn tre batcher av weissbier før helgen, for å eksperimentere med bær og te.

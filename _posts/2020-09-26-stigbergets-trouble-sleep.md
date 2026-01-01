@@ -2,7 +2,7 @@
 layout: post
 title:  "Batch #19: Stigebergets Trouble Sleep"
 preview: stigbergets-trouble-sleep-300.png
-main_photo: stigbergets-trouble-sleep.png
+photo: stigbergets-trouble-sleep.png
 ---
 
 Er nesten nøyaktig et år siden sist jeg brygget. Var selv ikke klar over at det var så lenge siden, derfor passet det jo

@@ -2,9 +2,9 @@
 layout: post
 title:  "Batch #5: En sjakkmesters weissbier"
 preview: alex-holyoake-467148-unsplash-300.png
-main_photo: alex-holyoake-467148-unsplash.png
-main_photographer: Alex Holyoake
-main_photo_username: stairhopper
+photo: alex-holyoake-467148-unsplash.png
+unsplash_photographer: Alex Holyoake
+unsplash_username: stairhopper
 ---
 
 Denne ølen ble brygget onsdagen da Magnus Carlsen ble verdensmester i sjakk for fjerde gang på rad! Målet med ølen var egentlig bare å teste en gjær som tåler høy gjæringstemperatur, da jeg foreløpig ikke har noe kjøleskap til å gjære i. Gikk for weissbier-oppskriften til Bryggselv.no og byttet ut gjæren med *Belgian Triple Yeast*, gjæres på 18-28 grader. Perfekt for leiligheten min. 

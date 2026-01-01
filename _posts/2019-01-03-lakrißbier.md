@@ -2,9 +2,9 @@
 layout: post
 title:  "Batch #13: Lakrißbier"
 preview: matt-hoffman-103242-unsplash-300.png
-main_photo: matt-hoffman-103242-unsplash.png
-main_photographer: Matt Hoffman
-main_photo_username: __matthoffman__
+photo: matt-hoffman-103242-unsplash.png
+unsplash_photographer: Matt Hoffman
+unsplash_username: __matthoffman__
 ---
 
 Ble litt mer ølbrygging første uken i 2019 (og planlagt et tredje brygg på søndag!). Også en weissbier, men denne gangen planlegger jeg å tilsette lakrisrot i gjæringen.

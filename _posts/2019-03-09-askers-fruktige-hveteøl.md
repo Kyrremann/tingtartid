@@ -2,9 +2,9 @@
 layout: post
 title:  "Batch #17: Askers fruktige hveteøl"
 preview: stefania-crudeli-743745-unsplash-300.png
-main_photo: stefania-crudeli-743745-unsplash.png
-main_photographer: Stefania Crudeli
-main_photo_username: steffcg
+photo: stefania-crudeli-743745-unsplash.png
+unsplash_photographer: Stefania Crudeli
+unsplash_username: steffcg
 ---
 
 PS: Denne rapporten ble skrevet et halvt år etter jeg hadde brygget ølen, derfor er den meget mangelfull.

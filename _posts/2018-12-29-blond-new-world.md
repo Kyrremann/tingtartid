@@ -2,9 +2,9 @@
 layout: post
 title:  "Batch #11: Blonde New World"
 preview: kyle-glenn-597606-unsplash-300.png
-main_photo: kyle-glenn-597606-unsplash.png
-main_photographer: Kyle Glenn
-main_photo_username: kylejglenn
+photo: kyle-glenn-597606-unsplash.png
+unsplash_photographer: Kyle Glenn
+unsplash_username: kylejglenn
 ---
 
 Dette er første brygg som ble kjøpt for å bruke opp noe av resthumla jeg har liggende i fryseren. Fortsatt 60g igjen, så litt flere brygg blir det. Jeg valgte også å gå for New World Strong Ale M42 som gjær, i stedet for den oppskriften sa. Mest for å se hva som skjer, da jeg ikke tror det er nok sukker i malten til at jeg kan nå en høy alkoholprosent med denne gjæren. Spennende blir det uansett!

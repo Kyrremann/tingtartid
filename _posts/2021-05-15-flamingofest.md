@@ -2,9 +2,9 @@
 layout: post
 title:  "Batch #23: Flamingofest"
 preview: sharisse-bullock-2dOmHAE9VlM-unsplash-300.png
-main_photo: sharisse-bullock-2dOmHAE9VlM-unsplash.png
-main_photographer: Sharisse Bullock
-main_photo_username: sharissebullock
+photo: sharisse-bullock-2dOmHAE9VlM-unsplash.png
+unsplash_photographer: Sharisse Bullock
+unsplash_username: sharissebullock
 ---
 
 PS: Denne rapporten ble skrevet flere år etter jeg brygget ølen, derfor er den meget mangelfull.

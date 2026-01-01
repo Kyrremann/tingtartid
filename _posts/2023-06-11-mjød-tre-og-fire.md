@@ -2,9 +2,9 @@
 layout: post
 title:  "Batch #24: Mjød tre og fire"
 preview: jonas-hensel-3Cpws7ibtfo-unsplash-300.png
-main_photo: jonas-hensel-3Cpws7ibtfo-unsplash.png
-main_photographer: Jonas Hensel
-main_photo_username: jns_hnsl
+photo: jonas-hensel-3Cpws7ibtfo-unsplash.png
+unsplash_photographer: Jonas Hensel
+unsplash_username: jns_hnsl
 ---
 
 Endelig fikk jeg satt i gang å lagd litt mer mjød.

@@ -2,9 +2,9 @@
 layout: post
 title:  "Batch #26: Mjød seks og syv"
 preview: elena-leya-fQ5NRUwqo6k-unsplash-300.png
-main_photo: elena-leya-fQ5NRUwqo6k-unsplash.png
-main_photographer: Elena Leya
-main_photo_username: foodistika
+photo: elena-leya-fQ5NRUwqo6k-unsplash.png
+unsplash_photographer: Elena Leya
+unsplash_username: foodistika
 ---
 
 Endelig fikk jeg satt i gang å lagd litt mer mjød.

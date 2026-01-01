@@ -2,9 +2,9 @@
 layout: post
 title:  "Batch #9: Big Burley Barleywine"
 preview: kyrre-havik-eriksen-1245384-unsplash-300.png
-main_photo: kyrre-havik-eriksen-1245384-unsplash.png
-main_photographer: Kyrre Havik Eriksen
-main_photo_username: kyrremann
+photo: kyrre-havik-eriksen-1245384-unsplash.png
+unsplash_photographer: Kyrre Havik
+unsplash_username: kyrremann
 ---
 
 Desember 2018 var månedens ølsett en barleywine, som både pappa og jeg hadde lyst til å brygge. Derfor ble det et nytt samarbeid mellom Fiskeslo og Ting Tar Tid. Da det var snakk om 9kg malt bestemte vi oss for å dobbelt-meske, som betyr at vi brukte over 3 timer på meskingen til sammen. Vi endte også opp med mer vørter enn planlagt, da vi ikke beregnet mengde skyllevann, men fulgte oppskriften slavisk. Dette løste vi med å å koke ekstra lenge, og uten lokk.

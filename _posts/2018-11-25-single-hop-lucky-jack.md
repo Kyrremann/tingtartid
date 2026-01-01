@@ -2,9 +2,9 @@
 layout: post
 title:  "Batch #4: Single-hop Lucky Jack"
 preview: davies-designs-342848-unsplash-300.png
-main_photo: davies-designs-342848-unsplash.png
-main_photographer: Davies Designs
-main_photo_username: davies_designs
+photo: davies-designs-342848-unsplash.png
+unsplash_photographer: Davies Designs
+unsplash_username: davies_designs
 ---
 
 To brygg på en helg blir nok ikke vanlig, men etter en prat med en sykkelkompis om brygging av små batcher måtte jeg bare prøve. Så i dag prøver jeg meg på en enkelt humlet Lucky Jack fra Lervig. Enkelt humle ble valgt for å slippe å bruke 4g av fire forskjellige typer, og da sitte igjen med 96g humle i hver pose.

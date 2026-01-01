@@ -2,9 +2,9 @@
 layout: post
 title:  "Batch #7: Saison Rustique"
 preview: randy-fath-772174-unsplash-300.png
-main_photo: randy-fath-772174-unsplash.png
-main_photographer: Randy Fath
-main_photo_username: randyfath
+photo: randy-fath-772174-unsplash.png
+unsplash_photographer: Randy Fath
+unsplash_username: randyfath
 ---
 
 Etter forrige bryggings [uhell](/2018/12/10/uhell-under-gjæring), tenkte jeg å prøve meg på nytt i dag. Da jeg ikke har vært på hytta i det siste, ble det vann fra springen denne gangen.

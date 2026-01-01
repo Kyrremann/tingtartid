@@ -2,9 +2,9 @@
 layout: post
 title:  "Batch #3: Askers fruktige hveteøl"
 preview: stefania-crudeli-743745-unsplash-300.png
-main_photo: stefania-crudeli-743745-unsplash.png
-main_photographer: Stefania Crudeli
-main_photo_username: steffcg
+photo: stefania-crudeli-743745-unsplash.png
+unsplash_photographer: Stefania Crudeli
+unsplash_username: steffcg
 ---
 
 Nytt samarbeidsbrygg, denne gangen med bror (aka. Slephenden Bryggeri), og vi skal prøve oss på Askers fruktige hveteøl. Prøvd brygget før, men da gikk ting litt dårlig, og han endte opp med å kalle den [Weak Wheat](https://untappd.com/b/slephenden-bryggeri-weak-wheat/2531703).

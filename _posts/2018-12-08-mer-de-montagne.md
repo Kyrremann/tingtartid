@@ -2,9 +2,9 @@
 layout: post
 title:  "Batch #6: Mer de Montagne"
 preview: kyrre-havik-eriksen-bergsjø-unsplash-300.png
-main_photo: kyrre-havik-eriksen-bergsjø-unsplash.png
-main_photographer: Kyrre Havik Eriksen
-main_photo_username: kyrremann
+photo: kyrre-havik-eriksen-bergsjø-unsplash.png
+unsplash_photographer: Kyrre Havik
+unsplash_username: kyrremann
 ---
 
 Dagens eksperiment var at jeg ønsket å bruke vann fra Bergsjø, som er innsjøen ved hytta vår. Var litt usikker på hva slags type øl som passet hytta, men følte at en fransk saison kunne passe. Kanskje ikke helt sesong for dette i februar (når den blir ferdig), men tenker den sikkert har godt av å lagres til litt varmere tider.

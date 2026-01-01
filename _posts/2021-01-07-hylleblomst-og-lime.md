@@ -2,9 +2,9 @@
 layout: post
 title:  "Batch #21: Hylleblomst og lime"
 preview: cam-james-qtDslDRnpUA-unsplash-300.png
-main_photo: cam-james-qtDslDRnpUA-unsplash.png
-main_photographer: Cam James
-main_photo_username: camjames
+photo: cam-james-qtDslDRnpUA-unsplash.png
+unsplash_photographer: Cam James
+unsplash_username: camjames
 ---
 
 Flere ganger når jeg har vært innom Bryggselv så har jeg sett at de selger Cider-sett, men ikke sett noe mer på de før

@@ -2,9 +2,9 @@
 layout: post
 title:  "Batch #15: Einerlåg og våningshus"
 preview: alina-miroshnichenko-418350-unsplash-300.png
-main_photo: alina-miroshnichenko-418350-unsplash.png
-main_photographer: Alina Miroshnichenko
-main_photo_username: chemrain
+photo: alina-miroshnichenko-418350-unsplash.png
+unsplash_photographer: Alina Miroshnichenko
+unsplash_username: chemrain
 ---
 
 Endelig var det tid for å brygge på nytt! Er nesten to måneder siden sist, så det var på høy tid med noe nytt. Denne gangen ble det en blanding av Farmhouse Ale (som jeg kjøpte før jul), sammen med einer som pappa hadde hentet i skogen helgen før. Planen var å prøve å lage einerlåg, og meske malten med einerlågen. Er ikke første gang jeg prøver noe nytt med vannet (se [Mer de Montagne](/batch/06-mer-de-montagne)), og einerlåg er heller ikke noe nytt i norsk bryggekultur.

@@ -1,10 +1,8 @@
 ---
 layout: post
 title:  "Batch #22: Asker Noir"
-preview: nordic-noir-300.jpeg
+photo: nordic-noir.jpeg
 ---
-
-![Bilde fra Byggselv.no]({{ site.baseurl }}/assets/batch/nordic-noir.jpeg)
 
 Til jul gave jeg pappa (Fiskeslo bryggeri) Nordic Noir bryggesettet fra Nøgne Ø og Bryggselv. Noe vi kunne brygge 
 sammen. Lite visste vi hvor mye arbeid det kom til å bli.

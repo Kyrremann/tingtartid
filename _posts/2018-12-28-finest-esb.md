@@ -2,9 +2,9 @@
 layout: post
 title:  "Batch #10: Finest ESB"
 preview: eric-tompkins-1083195-unsplash-300.png
-main_photo: eric-tompkins-1083195-unsplash.png
-main_photographer: Eric Tompkins
-main_photo_username: joekiddart
+photo: eric-tompkins-1083195-unsplash.png
+unsplash_photographer: Eric Tompkins
+unsplash_username: joekiddart
 ---
 
 Litt familiebrygging i romjula med brødrene, aka et sammarbeid mellom Slephend Bryggeri, Ting Tar Tid, og eldste bror. Denne gangen ble det en britisk pub-klassiker, fra Bryggselv (som vanlig). Som vanlig gikk ikke alt etter planen.

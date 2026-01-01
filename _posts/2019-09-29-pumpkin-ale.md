@@ -2,9 +2,9 @@
 layout: post
 title:  "Batch #18: Pumpkin Ale"
 preview: josh-couch-4wln43eqGjg-unsplash-300.png
-main_photo: josh-couch-4wln43eqGjg-unsplash.png
-main_photographer: Josh Couch
-main_photo_username: joshcouchdesign
+photo: josh-couch-4wln43eqGjg-unsplash.png
+unsplash_photographer: Josh Couch
+unsplash_username: joshcouchdesign
 ---
 
 Endelig ble det litt brygging på meg også! Nå er det 6 måneder siden sist, og jeg merket at jeg gledet meg. Var litt usikker på hva jeg skulle brygge denne gangen, men kom på at jeg hadde kjøpt inn en Pumpkin Ale i fjor, og nå som det snart er Halloween så passet jo det veldig bra!

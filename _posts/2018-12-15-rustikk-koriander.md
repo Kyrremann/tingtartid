@@ -2,9 +2,9 @@
 layout: post
 title:  "Batch #8: Rustikk koriander"
 preview: tomasz-olszewski-793487-unsplash-300.png
-main_photo: tomasz-olszewski-793487-unsplash.png
-main_photographer: Tomasz Olszewski
-main_photo_username: surojadek
+photo: tomasz-olszewski-793487-unsplash.png
+unsplash_photographer: Tomasz Olszewski
+unsplash_username: surojadek
 ---
 
 Når jeg skulle kjøpe malt til [Mer De Montagne](/batch/6-mer-de-montagne) misforstod selgeren meg og trodde jeg ville ha basen delt i tre. Ikke at jeg bare skulle ha en tredje-del av den. Så i stedet for å returnere den ekstra malten tenkte jeg heller å prøve tre forskjellige gjær. Dette er det tredje "forsøket", og jeg gikk for Mangrove Jack's West Coast (M44) gjæren. Planen er også å tilsette korianderfrø etter 7 dager, for å prøve å krydre ølen litt. Blir spennende å se, usikker på hvor mye jeg skal ha oppi, men kjøpte en pakke på 100g.
