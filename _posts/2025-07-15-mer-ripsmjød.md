@@ -1,9 +1,7 @@
 ---
 layout: post
 title:  "Batch #28: Mer ripsmjød"
-photo: david-r--e7OgaLtnjc-unsplash.png
-unsplash_photographer: David R
-unsplash_username: dr_gbg
+photo: mer-ripsmjød-rips.png
 ---
 
 Denne sommeren fikk jeg igjen rips fra en kollegaen, men denne gangen måtte jeg plukket ripsen selv.
@@ -38,18 +36,4 @@ Av gjær gikk jeg for Lalvin EC-1118, som har et stort temperatur spekter (10 - 
 
 *30.12.25* - Flyttet over til ny tank, og drepte gjæren på den ene, kastet bunnslammet/saften. Mens jeg hadde vært borte i høst så hadde den ene vannlåsen tørket ut. Etter å ha smakt på begge to, så tror jeg ikke det har påvirket mjøden noe, bortsett fra at den hadde sluttet å gjære. Den med fungerende vannlås var det fortsatt litt liv i. Målte også FG til 1.012, som gir meg en alkoholprosen på 23%, som er godt over toleransen til gjæren. Var så og si den samme FG i begge tankene mine.
 
-
----
-
-Honning 330g + 1kg
-2l vann
-10l bær
-5l tilsammen etter kok
-SG 1,160
-Gjær: EC-1118
-
-Glass som fortsatt gjæret
-FG 1,012
-
-Glasset uten vannlås
-FG 1,1012
+![Flytter mjøden over i ny tank]({{ site.baseurl }}/assets/batch/mer-ripsmjød-tapping.jpg)
