@@ -42,7 +42,7 @@ Testet ut en pakke Lallemand Lalvin EC1118 Champagne gjær.
 
 For å gjøre det enklere å sammenligne med de to første batchene mine valgte jeg en pakke Mangrove Jack's Mead Yeast M05.
 
-#### bryggenotater
+#### logg
 
 *01.08.24* - Står å gjærer på kjøkkenet, startet å skje ting under en time etter de var satt
 
@@ -50,4 +50,4 @@ For å gjøre det enklere å sammenligne med de to første batchene mine valgte 
 
 *18.09.24* - Tok FG og flyttet de i nye glass
 
-*desember* - Flasket, smakte litt på det som ble igjen, og virker lovende med tydelig bærsmak, men litt mye gjærsmak, så må stå litt.
+*xx.12.24* - Flasket, smakte litt på det som ble igjen, og virker lovende med tydelig bærsmak, men litt mye gjærsmak, så må stå litt.

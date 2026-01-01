@@ -28,10 +28,6 @@ innkjøp av fat for første gang. Er spent på å ta dette i bruk!
 
 
 | Brygget | 08.01.2021 |
-| Ferdig  | TBD        |
+| Ferdig  | xx.12.2021 |
 
 Oppskrift finner du på [bryggselv.no](https://www.bryggselv.no/bryggselv/106292/nordic-noir--nordisk-imperial-stout-allgrain-%c3%b8lsett-20-liter).
-
-
-#### bryggenotater
-

@@ -57,6 +57,8 @@ Gikk for så lik fremgangsmåte som mulig på begge disse batchene, men endte op
 Jeg antar dette er fordi jeg sikkert fikk litt mer enn 3kg honning.
 Tok ikke bryet med å veie de selv, da alt lå i små syltetøyglass.
 
+#### logg
+
 *xx.06.23* - Nå står de begge å gjærer i kjelleren som bare det!
 
 *07.08.23* - Gjæren ble drept på #3.
